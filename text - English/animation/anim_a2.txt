@@ -3,38 +3,38 @@ Given filesize: 0x1DE (actual size: 0x1EE)
 Number of entries: 9
 
 -- ID 1 --
-ここは 緑も枯れた寂しい山道
+Here lies a desolate mountain path, bereft of green,
 [End]
 
 -- ID 2 --
-むき出しの岩肌と激しい風が吹き荒ぶ
+with nothing but naked rock and furious winds.
 [End]
 
 -- ID 3 --
-荒野の大地
+A land of wilderness.
 [End]
 
 -- ID 4 --
-そこに乱立する奇妙な岩を横目に
+Carefully eyeing the curious rocks erected there,
 [End]
 
 -- ID 5 --
-今日も冒険者たちが歩いてくる
+today, once again, a group of adventurers walks through.
 [End]
 
 -- ID 6 --
-だけど 奇妙な岩には気をつけなさい
+But beware the curious rocks,
 [End]
 
 -- ID 7 --
-岩影には恐ろしい魔物が潜んでいる
+for in their shadows lurk fearsome monsters.
 [End]
 
 -- ID 8 --
-岩が崩れる音がした時 君たちの冒険は
+And the sound of crumbling rocks,
 [End]
 
 -- ID 9 --
-終わりを告げるかもしれないのだから
+may very well mark the end of your adventure.
 [End]
 
