@@ -1,56 +1,56 @@
-File: anim_a4
+﻿File: anim_a4
 Given filesize: 0x236 (actual size: 0x246)
 Number of entries: 13
 
 -- ID 1 --
-足を踏み入れればそこは
+The place they now tread
 [End]
 
 -- ID 2 --
-輝く水晶の洞窟
+is a cavern of shining crystal.
 [End]
 
 -- ID 3 --
-一攫千金を夢見る者たちがここに来れば
+Those who come, pickaxe in hand,
 [End]
 
 -- ID 4 --
-ツルハシを手に
+with dreams of striking it rich,
 [End]
 
 -- ID 5 --
-一心不乱に財宝を求めるのだろう
+surely hope for treasure.
 [End]
 
 -- ID 6 --
-だけど
+However,
 [End]
 
 -- ID 7 --
-輝く水晶の光に惑わされ
+led astray by the crystals' gleam,
 [End]
 
 -- ID 8 --
-奥へ奥へと進むうちに
+they dig deeper and deeper
 [End]
 
 -- ID 9 --
-人はみな 見慣れぬ場所へと
+and, to a man, find themselves lost in strange lands
 [End]
 
 -- ID 10 --
-連れ去られてしまう
+and are never seen again.
 [End]
 
 -- ID 11 --
-綺麗な花には棘があるように
+Just as the most beautiful flowers have thorns,
 [End]
 
 -- ID 12 --
-美しい宝には
+glittering treasure
 [End]
 
 -- ID 13 --
-相応の危険が存在しているのだ
+is accompanied by suitable danger.
 [End]
 

@@ -1,120 +1,120 @@
-File: ending5
+﻿File: ending5
 Given filesize: 0x5A0
 Number of entries: 29
 
 -- ID 0 --
-この星に生まれ、育った者の末裔よ
+You, who descend from those born and raised on this planet:
 [End]
 
 -- ID 1 --
-見事であった
+Well done.
 [End]
 
 -- ID 2 --
-前にも告げた通り
+As I mentioned earlier,
 [End]
 
 -- ID 3 --
-かつて この星は闇に支配されていた
+long ago this planet was ruled by darkness.
 [End]
 
 -- ID 4 --
-命の生まれぬ大地に
+In this land where nothing was born,
 [End]
 
 -- ID 5 --
-命を育む世界樹を植えた者たちがいた
+Someone planted the World Tree to bring life.
 [End]
 
 -- ID 6 --
-それが “アルコン" 我らの種族だ
+That would be my people, the "Archon".
 [End]
 
 -- ID 7 --
-アルコンは長い年月をかけてこの星を見守り
+Over the many years the Archon have watched over this planet,
 [End]
 
 -- ID 8 --
-生命に溢れる大地へと変えた
+it has become a land full of life.
 [End]
 
 -- ID 9 --
-“アルコン"は告げる
+"Archon" tells you that
 [End]
 
 -- ID 10 --
-かつて 様々な危機のたび
+every time in the past that the world was threated by one of many crises,
 [End]
 
 -- ID 11 --
-世界樹の恵みが人々を救っていた
+the people were saved through the blessings of the World Tree.
 [End]
 
 -- ID 12 --
-いつか人類が原始の闇を乗り越える…
+That she had a duty to protect that seed,
 [End]
 
 -- ID 13 --
-その日まで種を守るのが使命であったと
+until the day humanity overcame the primordial darkness.
 [End]
 
 -- ID 14 --
-そして今 君たちが現れた
+That, since you appeared,
 [End]
 
 -- ID 15 --
-原始の闇を乗り越えた君たち人類は
+and overcame the primordial darkness,
 [End]
 
 -- ID 16 --
-アルコンの頸木から脱し、己が手で
+humanity had freed itself of the Archon's yoke. With its own hands.
 [End]
 
 -- ID 17 --
-世界を歩かねばならないと…
+And that you need to travel the world...
 [End]
 
 -- ID 18 --
-これで私が役割は終わる
+With this, my duty here is over,
 [End]
 
 -- ID 19 --
-私はこの地を去るだろうと
+so I should be leaving.
 [End]
 
 -- ID 20 --
-同様に君たちの冒険も終わる
+In much the same way, your adventure ends here.
 [End]
 
 -- ID 21 --
-世界樹を巡る旅は最後となるだろう
+This is the surely last stop of your journey around the World Tree.
 [End]
 
 -- ID 22 --
-しかし君たちは“アルコン"が消えた後の
+But after "Archon" is gone,
 [End]
 
 -- ID 23 --
-世界を見守り、苦難を越えていくという
+you must overcome your next trial: watching over the world.
 [End]
 
 -- ID 24 --
-重く大変な役目があるのだ
+The duty is a heavy burden, to be sure,
 [End]
 
 -- ID 25 --
-だがきっと この迷宮を踏破した
+but I know you can do it.
 [End]
 
 -- ID 26 --
-君たちなら成し遂げると信じている
+You, who walked this labyrinth,
 [End]
 
 -- ID 27 --
-みなで協力する事の大切さを誰よりも
+and surely know better than anyone 
 [End]
 
 -- ID 28 --
-知っているだろうから………
+how important it is to cooperate.
 [End]
 

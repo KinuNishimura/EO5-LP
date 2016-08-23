@@ -1,36 +1,36 @@
-File: anim_a6
+﻿File: anim_a6
 Given filesize: 0x1AC (actual size: 0x1BC)
 Number of entries: 8
 
 -- ID 1 --
-どうして夜の空は暗いのだろう
+Why must the night sky be so dark?
 [End]
 
 -- ID 2 --
-幼い頃 不思議に思った空の彼方へ
+When you're young you have strange thoughts about the sky.
 [End]
 
 -- ID 3 --
-この旅の終わりは その始まりに至る道
+The end of this journey is merely the beginning of that one.
 [End]
 
 -- ID 4 --
-私たちが生まれた理由にして意義でもある
+We're born for a reason; it has significance.
 [End]
 
 -- ID 5 --
-君たちなら
+I have full faith in you.
 [End]
 
 -- ID 6 --
-そこに連れていってくれると信じている
+I know you can take me there.
 [End]
 
 -- ID 7 --
-どうして星は美しく輝くのだろう
+Why must the stars shine so beautifully?
 [End]
 
 -- ID 8 --
-私たちはこれから旅立つのだ
+Your journey begins here.
 [End]
 

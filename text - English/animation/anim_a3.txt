@@ -1,40 +1,40 @@
-File: anim_a3
+﻿File: anim_a3
 Given filesize: 0x1F4 (actual size: 0x204)
 Number of entries: 9
 
 -- ID 1 --
-古き伝承を知る 語り部の老婆が告げる
+According to an old woman versed in ancient lore,
 [End]
 
 -- ID 2 --
-遥か昔 ここでは恐ろしい戦争があったのだ
+this was the site of a terrible battle.
 [End]
 
 -- ID 3 --
-以来そこは 昼でも暗い死者たちの森へと
+Since then it's been transformed,
 [End]
 
 -- ID 4 --
-姿を変えてしまった と
+into a forest of dead, dark even in daylight.
 [End]
 
 -- ID 5 --
-古き伝承を知る 語り部の老婆は告げる
+According to the old woman versed in ancient lore,
 [End]
 
 -- ID 6 --
-もしあの森に行くのなら
+if you ever find yourself in that forest,
 [End]
 
 -- ID 7 --
-空を見上げて太陽の日差しを探すのだ
+look to the sky and seek out the sunlight.
 [End]
 
 -- ID 8 --
-でないと君たちの背後には
+Or else, before you know it, 
 [End]
 
 -- ID 9 --
-気付けば死霊が忍びよっているだろうと
+you'll find yourself with a ghost at your back.
 [End]
 

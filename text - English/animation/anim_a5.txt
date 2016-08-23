@@ -1,48 +1,48 @@
-File: anim_a5
+﻿File: anim_a5
 Given filesize: 0x21C (actual size: 0x22C)
 Number of entries: 11
 
 -- ID 1 --
-かつて
+Long ago,
 [End]
 
 -- ID 2 --
-赤く荒れ果てた大地に私が訪れた時
+when I first arrived in this ruined, red land,
 [End]
 
 -- ID 3 --
-この森は生まれた
+this forest was born.
 [End]
 
 -- ID 4 --
-世界を構成する全ての緑は
+If I told them that this entire world's greenery
 [End]
 
 -- ID 5 --
-この小さな原生林から生まれたといったら
+came from this tiny, pristine forest,
 [End]
 
 -- ID 6 --
-大地に住む者たちは信じるだろうか?
+would any who call this land home believe it?
 [End]
 
 -- ID 7 --
-多くの者は笑うだろうが
+I'm sure most would laugh at the thought,
 [End]
 
 -- ID 8 --
-どこかに信じる者もいると私は思っている
+but I think that some out there would believe.
 [End]
 
 -- ID 9 --
-幾多の困難を乗り越え
+I want to think that it is precisely because
 [End]
 
 -- ID 10 --
-数多の想いを受け継いでここにきた彼らこそ
+they've overcome countless obstacles, and carry the weight of countless expectations,
 [End]
 
 -- ID 11 --
-そうであってほしい
+that they can believe me.
 [End]
 
