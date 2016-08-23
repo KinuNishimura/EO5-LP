@@ -1,0 +1,13 @@
+File: que_091
+Given filesize: 0xFA
+Number of entries: 1
+
+-- ID 0 --
+[Color:0x0003]追加コンテンツクエスト
+[Color:0x0005]「名湯、六花氷樹海!」[Color:0x0003]を
+[Color:0x0005]受注できませんでした[Color:0x0003]。
+[Color:0x0003]追加コンテンツクエスト
+[Color:0x0005]「名湯、六花氷樹海!」[Color:0x0003]は
+[Color:0x0005]12階[Color:0x0003]に到達すると受注できます。
+[End]
+

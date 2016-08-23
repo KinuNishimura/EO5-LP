@@ -1,0 +1,12 @@
+File: mis_007
+Given filesize: 0x54 (actual size: 0x364)
+Number of entries: 2
+
+-- ID 0 --
+ダミー
+[End]
+
+-- ID 50 --
+だみー
+[End]
+

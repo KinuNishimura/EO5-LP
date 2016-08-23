@@ -1,0 +1,9 @@
+File: bar_63
+Given filesize: 0x50
+Number of entries: 1
+
+-- ID 0 --
+仮テキスト
+バトルについて⑳
+[End]
+
