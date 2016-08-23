@@ -19,22 +19,22 @@ and obstruct their paths.
 [End]
 
 -- ID 5 --
-今日もまた樹海へ挑む冒険者たちの前に
+Today, once again, a group of adventurers challenge the forest,
 [End]
 
 -- ID 6 --
-物言わぬ小さな石像たちが 立ち塞がる
+and the statues, without a word, stand in their way.
 [End]
 
 -- ID 7 --
-でも 私は思うのだ
+But here's what I think:
 [End]
 
 -- ID 8 --
-石像はいつもジッとその場に立っているだけ
+The statues merely stand silent, as they always have.
 [End]
 
 -- ID 9 --
-惑いは人にあり 石像にはないのではと
+And what leads people astray are people themselves.
 [End]
 
