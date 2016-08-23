@@ -1,0 +1,596 @@
+File: staffroll
+Given filesize: 0x1D32 (actual size: 0x1E02)
+Number of entries: 25
+
+-- ID 0 --
+
+[Color:0x0009]STAFF[Color:0x0000]
+
+
+
+
+
+
+[Color:0x000D]Director[Color:0x0000]
+小森 成雄
+
+
+
+
+
+
+[Color:0x000D]Character Designer[Color:0x0000]
+日向 悠二
+
+
+
+
+
+
+[Color:0x000D]Monster Designer[Color:0x0000]
+長澤 真
+
+
+
+
+
+
+[Color:0x000D]Music Composer[Color:0x0000]
+古代 祐三
+
+
+
+
+
+
+[Color:0x000D]Art Director[Color:0x0000]
+笹津 啓志
+
+
+
+
+
+
+[End]
+
+-- ID 1 --
+[Color:0x000D]Chief Planner[Color:0x0000]
+渡邊 勝
+
+[Color:0x000D]Battle Planner[Color:0x0000]
+吉田 城能輔
+岩佐 亮  
+阿部 一洋 
+伊藤 清仁 
+
+[Color:0x000D]Field ＆ f.o.e    [Color:0x0000]
+[Color:0x000D]          Planner[Color:0x0000]
+吉田 城能輔
+
+[Color:0x000D]Event Planner[Color:0x0000]
+山本 崇裕
+村山 峻哉
+川崎 友寛
+小針 友和
+小松 裕司
+
+
+
+
+[Color:0x000D]Chief Programmer[Color:0x0000]
+小森 祥弘
+
+[Color:0x000D]Battle Programmer[Color:0x0000]
+肥後 聖亨
+
+[Color:0x000D]Programmer[Color:0x0000]
+新谷 大樹
+山口 正太
+
+
+
+
+[Color:0x000D]3D Character     [Color:0x0000]
+[Color:0x000D]       Designer  [Color:0x0000]
+青柳 拓  
+針谷 美雪 
+橋本 紹未 
+為平 千寿香
+
+[Color:0x000D]Motion Designer[Color:0x0000]
+中島 良恵
+
+[Color:0x000D]3D Dungeon       [Color:0x0000]
+[Color:0x000D]       Designer  [Color:0x0000]
+青柳 拓 
+黒田 史明
+
+[Color:0x000D]Effect Designer[Color:0x0000]
+植田 圭一 
+岩田 真由巳
+芳原 匠  
+
+[Color:0x000D]Interface Designer[Color:0x0000]
+寺田 友紀
+
+[Color:0x000D]2D Designer[Color:0x0000]
+高岡 新之介
+
+
+
+
+[Color:0x000D]Sound Designer[Color:0x0000]
+小西 利樹
+
+[Color:0x000D]Voice Editor[Color:0x0000]
+土屋 憲一
+
+
+
+
+
+
+[End]
+
+-- ID 2 --
+[Color:0x000D]SOUND WORKS[Color:0x0000]
+[Color:0x0006]ANCIENT CO.,LTD[Color:0x0000]
+
+[Color:0x000D]Drum[Color:0x0000]
+野口 仁史
+
+[Color:0x000D]Bass[Color:0x0000]
+棚橋 俊幸
+
+[Color:0x000D]Guitar[Color:0x0000]
+宮崎 大介
+
+[Color:0x000D]Piano[Color:0x0000]
+AYAKI
+
+[Color:0x000D]Violin[Color:0x0000]
+小林 明日香
+高橋 和葉 
+
+[Color:0x000D]Viola[Color:0x0000]
+松宮 茉希
+
+[Color:0x000D]Cello[Color:0x0000]
+神野 洋平
+
+[Color:0x000D]Trumpet[Color:0x0000]
+荻原 和音
+
+[Color:0x000D]Trombone[Color:0x0000]
+白井 友理恵
+
+[Color:0x000D]Horn[Color:0x0000]
+竹内 修
+
+[Color:0x000D]Flute[Color:0x0000]
+櫻田 朗歩
+
+[Color:0x000D]Oboe[Color:0x0000]
+高田 園子
+
+[Color:0x000D]Clarinet[Color:0x0000]
+水越 裕二
+
+[Color:0x000D]Saxophone/Percussion[Color:0x0000]
+伊勢 賢治
+
+[Color:0x000D]Score Creator[Color:0x0000]
+羽田 二十八
+
+[Color:0x000D]Mix Engineer[Color:0x0000]
+quad
+
+[Color:0x000D]Recording Director, [Color:0x0000]
+[Color:0x000D]   Composer,Arranger[Color:0x0000]
+古代 祐三
+
+[Color:0x000D]Arranger[Color:0x0000]
+柳川 剛
+[End]
+
+-- ID 3 --
+
+
+
+
+
+
+[Color:0x000D]Background Design[Color:0x0000]
+[Color:0x0006]Bamboo Inc.[Color:0x0000]
+西野 隆世
+竹田 悠介
+
+
+
+
+
+
+[Color:0x000D]3D Model Designer[Color:0x0000]
+[Color:0x0006]QOURIER Inc.[Color:0x0000]
+
+
+
+
+[Color:0x000D]Map Modeling[Color:0x0000]
+[Color:0x0006]QOURIER Inc.[Color:0x0000]
+
+
+
+
+
+
+[Color:0x000D]Recording Director[Color:0x0000]
+嶋澤 みどり
+
+[Color:0x000D]Recording Engineer[Color:0x0000]
+岡部 直紀
+
+[Color:0x000D]Assistant          [Color:0x0000]
+[Color:0x000D] Recording Engineer[Color:0x0000]
+村山 魁杜
+川和 浩之
+
+
+
+
+[Color:0x000D]Record Production[Color:0x0000]
+[Color:0x0006]STUDIO MAUSU Inc.[Color:0x0000]
+
+[Color:0x000D]Recording Staff[Color:0x0000]
+入江 信子
+
+
+
+
+
+
+[End]
+
+-- ID 4 --
+[Color:0x0009]CAST[Color:0x0000]
+
+
+
+
+
+
+[Color:0x000D]Player Character[Color:0x0000]
+蒼井 翔太 
+新井 里美 
+石田 彰  
+大川 透  
+大橋 彩香 
+川原 慶久 
+久野 美咲 
+斎賀 みつき
+佐藤 拓也 
+瀬戸 麻沙美
+田中 敦子 
+鳥海 浩輔 
+中田 譲二 
+名塚 佳織 
+花江 夏樹 
+早見 沙織 
+潘 めぐみ 
+日笠 陽子 
+日高 里菜 
+堀江 由衣 
+村瀬 歩  
+代永 翼  
+
+
+
+
+[Color:0x000D]Non Player Character[Color:0x0000]
+
+[Color:0x000D]Jenetta[Color:0x0000]
+中村 桜
+
+[Color:0x000D]Seriku[Color:0x0000]
+金田 アキ
+
+[Color:0x000D]Melina[Color:0x0000]
+岡村 明美
+
+[Color:0x000D]Edgar[Color:0x0000]
+坪井 智浩
+
+[Color:0x000D]Remus[Color:0x0000]
+小松 未可子
+
+[Color:0x000D]Solor[Color:0x0000]
+雨宮 天
+
+[Color:0x000D]Lili[Color:0x0000]
+加隈 亜衣
+
+[Color:0x000D]Archon[Color:0x0000]
+悠木 碧
+
+[Color:0x000D]Guard[Color:0x0000]
+川原 慶久
+
+[Color:0x000D]Town Crier[Color:0x0000]
+川原 慶久
+
+[Color:0x000D]Dryad[Color:0x0000]
+早見 沙織
+
+[Color:0x000D]Lamia[Color:0x0000]
+早見 沙織
+[End]
+
+-- ID 5 --
+
+
+
+
+
+
+[Color:0x0009]Quality Assurance[Color:0x0000]
+
+
+
+
+
+
+[Color:0x0006]ATLUS QA Team[Color:0x0000]
+
+[Color:0x000D]QA Manager[Color:0x0000]
+太田 恵一郎
+
+[Color:0x000D]QA Chief[Color:0x0000]
+市川 哲
+
+[Color:0x000D]QA Staff[Color:0x0000]
+中川 望 
+渡邉 新 
+大城 和也
+安井 拓 
+村山 千尋
+嶺 瀬玲那
+山谷 寛 
+
+
+
+
+[Color:0x000D]QA Cooperation[Color:0x0000]
+[Color:0x0006]Pole To Win CO.,Ltd.[Color:0x0000]
+
+[Color:0x000D]Title Leader[Color:0x0000]
+阿野 貴寛
+
+[Color:0x000D]Chief Debugger[Color:0x0000]
+松永 和憲
+
+
+
+
+
+
+[End]
+
+-- ID 6 --
+[Color:0x000D]Font Design      [Color:0x0000]
+[Color:0x000D]      Cooperation[Color:0x0000]
+[Color:0x0006]Fontworks Inc.[Color:0x0000]
+
+
+
+
+
+
+[Color:0x000D]Package Artwork[Color:0x0000]
+[Color:0x0006]FIX Inc.[Color:0x0000]
+永島 政男
+
+
+
+
+
+
+[Color:0x0009]Marketing Department[Color:0x0000]
+
+[Color:0x000D]Manager[Color:0x0000]
+田中 良和
+
+[Color:0x000D]Sales[Color:0x0000]
+三崎 康世
+岡田 陽平
+
+
+
+
+[Color:0x000D]License[Color:0x0000]
+ 森 純一 
+村本 秀美 
+江藤 隆仁 
+竹野 紗弥香
+新井 弘人 
+高見 正輝 
+
+
+
+
+[Color:0x000D]Product Relation[Color:0x0000]
+進藤 裕仁
+八木 篤 
+篠田 研治
+
+
+
+
+[Color:0x0009]Overseas Business [Color:0x0000]
+[Color:0x0009]    Promotion Team[Color:0x0000]
+
+[Color:0x000D]Manager[Color:0x0000]
+田中 裕之
+
+ 森 純一
+石原 公祥
+Jasmine Webb
+
+
+
+
+[End]
+
+-- ID 7 --
+[Color:0x0009]Promotion Team[Color:0x0000]
+
+[Color:0x000D]Manager[Color:0x0000]
+高島 寿洋
+
+[Color:0x000D]Promotion[Color:0x0000]
+宇田 洋輔
+前原 由依
+中村 信彦
+伊藤 千恵
+大畑 美帆
+宮田 健伍
+
+
+
+
+[Color:0x000D]Administration  [Color:0x0000]
+[Color:0x000D]      Department[Color:0x0000]
+進藤 優木
+黒川 真紀
+太田 美子
+
+
+
+
+[Color:0x000D]Project Manager[Color:0x0000]
+中村 陽子
+
+
+
+
+[Color:0x000D]Chief            [Color:0x0000] 
+[Color:0x000D]  Project Manager[Color:0x0000]
+定形 倫
+
+
+
+
+
+
+[Color:0x000D]Supervisor[Color:0x0000]
+高田 慎二郎
+[End]
+
+-- ID 8 --
+
+
+
+
+
+
+[Color:0x0009]Consumer          [Color:0x0000]
+[Color:0x0009] Software Division[Color:0x0000]
+
+[Color:0x000D]General Manager[Color:0x0000]
+平岡 直人
+
+
+
+
+
+
+[Color:0x000D]Executive Producer[Color:0x0000]
+平岡 直人
+
+
+
+
+
+
+[Color:0x000D]Development[Color:0x0000]
+[Color:0x0006]Atlus CO.,LTD.[Color:0x0000]
+
+
+[End]
+
+-- ID 10 --
+この星に生まれ、育った者の末裔よ。
+[End]
+
+-- ID 11 --
+     見事であった。
+[End]
+
+-- ID 12 --
+    前にも告げた通り  
+かつて、この星は闇に支配されていた。
+[End]
+
+-- ID 14 --
+    命の生まれぬ大地に  
+命を育む世界樹を植えた者たちがいた。
+[End]
+
+-- ID 16 --
+それが“アルコン"、私の一族だ。
+[End]
+
+-- ID 17 --
+私たちは長い年月をかけてこの星を見守り 
+ 生命に溢れる大地へと変えたのだ。
+[End]
+
+-- ID 19 --
+………。
+[End]
+
+-- ID 20 --
+これまで、私たちは様々な危機のたび 
+ 世界樹の力で人々を救ってきた。
+[End]
+
+-- ID 22 --
+しかし、それはいつの日か人がその手で 
+原始の闇を乗り越えると信じていたからだ。
+[End]
+
+-- ID 24 --
+    時は流れ  
+そして今、君たちが現れた。
+[End]
+
+-- ID 25 --
+原始の闇を乗り越えた君たち人類は 
+アルコンの頸木から脱し、己が手で 
+  世界を歩く資格を得たのだ。
+[End]
+
+-- ID 28 --
+これで、私の役割は終わる。
+[End]
+
+-- ID 30 --
+同様に君たちの冒険も終わりを告げる。 
+世界樹を巡る旅は最後となるだろう。
+[End]
+
+-- ID 32 --
+しかし君たちは私が去った後の世界を見守り
+   苦難を越えていくという
+   重く大変な役目があるのだ。
+[End]
+
+-- ID 35 --
+だがきっと、この迷宮を踏破した 
+君たちなら成し遂げると信じている。
+[End]
+
+-- ID 37 --
+みなで協力する事の大切さを誰よりも
+  知っているだろうから………。
+[End]
+
