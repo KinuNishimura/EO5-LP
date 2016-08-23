@@ -48,7 +48,7 @@ Think carefully about who you want at your back.
 
 -- ID 10 --
 [F859] [F81B]V_CHAR_103/EVENT/GENERAL/001  Looks like you got 5 people.
-I guess I should say you made the right call.
+I'm sure you made wise choices.
 It's finally time to raise the curtain on your adventure.
 First up you should go talk to the Arcadian Council.
 [End]
