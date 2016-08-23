@@ -4,11 +4,11 @@ Number of entries: 58
 
 -- ID 0 --
 [F812]Armor-Wearing Man  [F81B]V_CHAR_103/EVENT/FIRST_APPEAR/001   All the lowlifes in town these days must've 
-forgotten what it means to be an adventure.
+forgotten what it means to be an adventurer.
 [F81B]V_CHAR_103/EVENT/FIRST_APPEAR/002   There's nothin' but punks who shy away from danger,
 want stability in life, and are satisfied with just making enough to eat.
 [F81B]V_CHAR_103/EVENT/FIRST_APPEAR/003   ...You new around here?
-If you're ready to challenge the unknown at the World Tree,
+If you're ready to challenge the unknown in the World Tree,
 then you'd better make your own guild.
 [F81B]V_CHAR_103/EVENT/FIRST_APPEAR/004   And then you should gather allies who share your drive.
 ...If that's what you're here for, then let me welcome you.
@@ -33,12 +33,12 @@ Guess it's nice to meetcha.
 -- ID 4 --
 [F859] You've got the gleam in your eye of someone who chases after the unknown.
 Don't fear it, conquer it.
-You create your future by pushing forward on your own.
+You create your own future by pushing forward.
 Now, name your guild.
 [End]
 
 -- ID 8 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/003  [Guild Name], huh? Well, the quality of that name is gonna depend on what you do from here on out.
+[F859] [F81B]V_CHAR_103/EVENT/GENERAL/003  [Guild Name], huh? Well, whether that name is any good or not is gonna depend on what you do from here on out.
 Next, you gotta recruit some adventurers for your guild.
 Exploring the forest by your lonesome is pretty much impossible.
 You should probably start with at least 5 people with different abilities.
