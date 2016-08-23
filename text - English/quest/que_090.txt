@@ -1,0 +1,13 @@
+File: que_090
+Given filesize: 0xF8
+Number of entries: 1
+
+-- ID 0 --
+[Color:0x0003]追加コンテンツクエスト
+[Color:0x0005]「戦いに生きる空の王者」[Color:0x0003]を
+[Color:0x0005]受注できませんでした[Color:0x0003]。
+追加コンテンツクエスト
+[Color:0x0005]「戦いに生きる空の王者」[Color:0x0003]は
+[Color:0x0005]4階[Color:0x0003]に到達すると受注できます。
+[End]
+

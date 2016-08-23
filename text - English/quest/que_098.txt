@@ -1,0 +1,13 @@
+File: que_098
+Given filesize: 0x102
+Number of entries: 1
+
+-- ID 0 --
+[Color:0x0003]追加コンテンツクエスト
+[Color:0x0005]「桜ノ立橋に降る雪の怪異」[Color:0x0003]を
+[Color:0x0005]受注できませんでした[Color:0x0003]。
+[Color:0x0003]追加コンテンツクエスト
+[Color:0x0005]「桜ノ立橋に降る雪の怪異」[Color:0x0003]は
+[Color:0x0005]21階[Color:0x0003]に到達すると受注できます。
+[End]
+

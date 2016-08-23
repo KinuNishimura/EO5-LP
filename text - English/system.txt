@@ -1,0 +1,15 @@
+File: system
+Given filesize: 0xB4 (actual size: 0x284)
+Number of entries: 2
+
+-- ID 1 --
+システムテスト
+[End]
+
+-- ID 30 --
+追加コンテンツのBGM再生に
+失敗しました
+本体の電源を切りSDカードを
+挿し直してください
+[End]
+
