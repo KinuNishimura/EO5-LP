@@ -15,11 +15,11 @@ A land of wilderness.
 [End]
 
 -- ID 4 --
-Carefully eyeing the curious rocks erected there,
+Today, once again, a group of adventurers walks through,
 [End]
 
 -- ID 5 --
-today, once again, a group of adventurers walks through.
+their gazes passing over the curious rocks erected there.
 [End]
 
 -- ID 6 --
