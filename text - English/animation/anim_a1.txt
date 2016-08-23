@@ -19,7 +19,7 @@ and obstruct their paths.
 [End]
 
 -- ID 5 --
-Today, once again, a group of adventurers challenge the forest,
+Today, once again, a group of adventurers challenges the forest,
 [End]
 
 -- ID 6 --
