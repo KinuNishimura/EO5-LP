@@ -55,7 +55,7 @@ First up you should go talk to the Arcadian Council.
 
 -- ID 11 --
 [F859] [F81B]V_CHAR_103/EVENT/GENERAL/004  ...Having less people just makes it that much more dangerous.
-But if you still want to go ahead with it, I'm not gonna say anything.
+But if you still want to go ahead with it, I'm not gonna stop you.
 Once you're done here, you should go see the Arcadian Council.
 [End]
 
