@@ -3,19 +3,19 @@ Given filesize: 0x1E0 (actual size: 0x1F0)
 Number of entries: 9
 
 -- ID 1 --
-この樹海の美しい木々の向こうには
+Facing the forest's beautiful trees,
 [End]
 
 -- ID 2 --
-魔法の石像があると言う
+are what are said to be magical statues.
 [End]
 
 -- ID 3 --
-その石像は人々を惑わせ
+These statues are said to lead people astray,
 [End]
 
 -- ID 4 --
-行く手を遮ると言われている
+and obstruct their paths.
 [End]
 
 -- ID 5 --
