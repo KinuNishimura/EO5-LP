@@ -6,206 +6,145 @@ Number of entries: 115
 [F81B]V_CHAR_105/EVENT/FIRST_APPEAR/001   [F812]Earthrun Royalty  This is the Arcadian Council.
 [F81B]V_CHAR_105/EVENT/FIRST_APPEAR/002   It serves as a means for each of the continent's four races to send representatives to watch over Yggdrasil.
 [F81B]V_CHAR_105/EVENT/FIRST_APPEAR/003   You would be new adventurers, yes?
-[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/004   I am Remus. As Earthrun royalty, I do respect yuor courage, but I also hope you'll become 世界樹に挑むその勇気が、この街の未来を
-築く力となる事をアースランの王族である
-私、[Color:0x0005]レムス[Color:0x0000]は期待しているよ。
-[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/005   [F859] 冒険者として働く覚悟ができているなら
-ミッションを受領して欲しい。
+[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/004   I am [b]Remus[/b]. As Earthrun royalty, I do respect your courage, but I also hope you'll become a positive influence on the future of this city.
+[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/005   [F859] Accept the mission whenever you're ready to begin activities as an adventurer.
 [End]
 
 -- ID 1 --
-[Color:0x0003]評議会では[Color:0x0005]ミッション[Color:0x0003]と呼ばれる
-仕事の依頼が発生します。
-[Color:0x0000][F802][Color:0x0003]これを受領し、達成することで
-様々な報酬を得ることができます。
-[Color:0x0000][F802][Color:0x0003]メニューの[Color:0x0005]ミッションの受領[Color:0x0003]を
-選んで詳細を確認して下さい。
-[Color:0x0000][End]
+The Council puts up job requests known as [b]Missions[/b].
+[F802]By accepting and completing these requests, you will receive various rewards.
+[F802]Please select [b]Accept Mission[/b] on the menu to check the details.
+[End]
 
 -- ID 10 --
-[Color:0x0005]新規ミッション[Color:0x0003]が発動しました。
-メニューの[Color:0x0005]ミッションの受領[Color:0x0003]を選んで
-詳細を確認して下さい。[Color:0x0000]
+A [b]new mission[/b] has been posted.
+Please select [b]Accept Mission[/b] on the menu to check the details.
 [End]
 
 -- ID 11 --
-[F859] 君たちはミッションを受けに来たんだろう?
-だったら受領するんだ。
-この街で冒険者としてやっていくなら
-何にしてもまずはこのミッションを
-やり遂げてもらう必要があるからね。
+[F859] You're here to take the mission, correct? Then do so.
+Whatever else you plan to do in this city as an adventurer, you first have to complete this mission.
 [End]
 
 -- ID 12 --
-[F859] [F81B]V_CHAR_105/EVENT/MISSION/REC_AFTER/006  そうそう、一つ伝え忘れていた。
-最初のミッションに挑む前に、
-まず街の[Color:0x0005]大市[Color:0x0000]に行くといい。
-[F81B]V_CHAR_105/EVENT/MISSION/REC_AFTER/007  冒険の必需品を
-揃えることができるだろう。
+[F859] [F81B]V_CHAR_105/EVENT/MISSION/REC_AFTER/006  Oh yes, there's something I forgot to mention.
+Before you take on the first mission, you should visit the town [b]market[/b].
+[F81B]V_CHAR_105/EVENT/MISSION/REC_AFTER/007  You should be able to find everything you'll need there.
 [End]
 
 -- ID 50 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  [Guild Name]の諸君か。
-きっと君たちは来てくれると思っていたよ。
-今回、評議会が発動させたミッションは
-第一階層を突破し、第二階層への道を
-見つけて欲しいという内容だ。
-覚悟ができているなら、ミッションを
-受領し探索へと向かってほしい。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  If it isn't the members of [Guild Name].
+I had a feeling you'd come.
+This time, the council wants you to clear the first stratum and secure a path to the second.
+When you're ready, accept the mission and begin your exploration.
 [End]
 
 -- ID 60 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  やあ、[Guild Name]の諸君。
-冒険は順調に進んでいるかい?
-……なんだって?
-[F81B]V_CHAR_105/EVENT/GENERAL/005  第二階層で恐ろしい魔物を見つけた?
-…そうか、君たちもか。
-実は最近、第二階層を探索している
-多くの冒険者から、同じような
-報告を受けて困っていたんだ。
-聞けば、信じられないほど巨大な象が
-大地を揺らしながら現れたという話だ。
-臆病な冒険者が見間違えただけだろうと
-思っていたのだが…、君たちほどの冒険者が
-そういうのなら事実なんだろうね。
-ならこの件、評議会として見過ごす訳には
-いかない。ミッションを発動するので
-ぜひ、君たちにお願いしたい。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  Oh, hello [Guild Name].
+Has the labyrinth been treating you well?
+...What?
+[F81B]V_CHAR_105/EVENT/GENERAL/005  You've discovered a terrible monster in the 2nd stratum?
+...I see. So you've enountered it as well.
+In truth, there are many adventurers on the second stratum recently, so we've received similar troubling reports.
+They speak of an unbelievably huge elephant that shakes the very earth when it appears.
+I had taken this to merely be exaggeration by cowardly adventurers, but if people like you can verify it then it must be true.
+In which case the Council cannot stand idly by.
+I'll put up a mission that I'd like you to take.
 [End]
 
 -- ID 70 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  [Guild Name]のみんな。
-久しぶりだね。
-見れば以前より装備も整っているようだね。
-こうして君たちが成長している姿を見ると
-自分も嬉しく思うよ。
-[F81B]V_CHAR_105/EVENT/GENERAL/002  ところで今日はどうしたんだい?
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  If it isn't everyone from [Guild Name].
+It's been a while since we last met.
+Even your equipment seems better than the last time I saw you.
+I must admit, I enjoy seeing you improve like this.
+[F81B]V_CHAR_105/EVENT/GENERAL/002  So what brings you here today?
 [End]
 
 -- ID 71 --
-[Color:0x0005]何と答えますか?[Color:0x0000]
-10階の2人組の言葉を伝える
-ミッションがないのか尋ねる
+[b]How will you respond?[/b]
+Tell him what the two of them said on floor 10.
+Ask if there are any missions.
 [End]
 
 -- ID 72 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  …そうか、そういうことか。
-君たちが新米冒険者として来たのは
-つい先日だった気がしていたのだが……
-もう、この話をする事になるとは…。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  ...I see, so that's what's going on.
+It seems like it was just the other day that you were novice adventurers.
+So it's already time to talk about this...
 [End]
 
 -- ID 73 --
-[F859] だがその前に、君たちが10階まで
-辿り着いたということは、あの巨象を
-避けて進む道があったということだね?
-先にそちらの報告をしてもらいたい。
-話の続きはそれからにしよう。
+[F859] But before that, if you were on floor 10, then you must have found a way around the mammoth, correct?
+I'd like you to report that matter first.
+We can continue this discussion after that.
 [End]
 
 -- ID 74 --
-[F859] 評議会としても喜ばしいことだと思う。
-では説明させてもらうよ。
-ここアイオリスでは、全ての冒険者たちを
-管理し、十分な力量に達した者を
-『[Color:0x0005]達人[Color:0x0000]』と呼んでいる。
-達人は、マスターということもある。
-この名は、評議会が一流と認めた証であり
-達人スキルという新たな技が伝授される。
-そんな達人に相応しいかどうかを
-判断するためのミッションを、いま
-10階を使って行っているんだ。
-達人試験に相応しい冒険者のみ
-あの先へと進んでもらいたい。
+[F859] I believe this is a cause for celebration, for both you and the Council.
+Allow me to explain.
+Here in Aeolis, we manage all adventurers, and those with sufficient strength are called [b]Master[/b] class.
+Those who receive this title are recognized by the Council as top-class and are provided instruction in new, Master level skills.
+We currently use missions to 10th floor as a means of determining who is worthy of this title.
+This is a test to ensure that only those adventurers deemed capable will be able to proceed any further.
 [End]
 
 -- ID 75 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/003  ……だが、どうやら君たちに
-この試験はまだ早いようだ。
-けれど、諦めることはない。
-試験の受付はまだしばらく続く。
-樹海で経験を積んで、
-腕が上がったと感じたなら、
-もう一度ここへ来て欲しい。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/003  ...However, it seems it's still too early for you to take the test.
+But don't be disheartened.
+It should only be a short while until you're ready to take the test.
+Get a bit more experience in the labyrinth.
+I'd like you to come back when you feel your skills have improved.
 [End]
 
 -- ID 76 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  …そして、君たちはその試験を受けるに
-相応しいだけの力を持っているようだね。
-樹海の奥を目指すつもりなら
-ぜひミッションを受け、この試験を
-乗り越えて欲しい。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  ...And it seems that you are, at the very least, strong enough to take the test.
+If your goal is to head deeper into the labyrinth, then by all means accept the mission and clear this test.
 [End]
 
 -- ID 77 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  やあ、[Guild Name]のみんな。
-達人試験に挑戦したいのかい?
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  Hello, everyone from [Guild Name].
+Would you like to take the Master test?
 [End]
 
 -- ID 78 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/003  …残念だけど、どうやら君たちに
-この試験はまだ早いようだ。
-樹海で経験を積んで、
-腕が上がったと感じたなら、
-もう一度ここへ来て欲しい。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/003  ...I'm sorry, but you're still not ready to take the test.
+Get a bit more experience in the labyrinth.
+I'd like you to come back when you feel your skills have improved.
 [End]
 
 -- ID 79 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  …うん。問題ないだろう。
-君たちは達人試験を受けるに
-相応しいだけの力を持っている。
-望むならぜひ、新しいミッションを
-受領して欲しい。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  ...Yes, this won't be a problem.
+It seems you are, at the very least, strong enough to take the test.
+You can take the mission whenever you like.
 [End]
 
 -- ID 80 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  君たちにするべき話はあるが…10階まで
-辿り着いたということは、あの巨象を
-避けて進む道があったということだね?
-先にそちらの報告をしてもらいたい。
-話の続きはそれからにしよう。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  I have something to discuss with you, but...
+If you were on floor 10, then you must have found a way around the mammoth, correct?
+I'd like you to report that matter first.
+We can continue this discussion after that.
 [End]
 
 -- ID 90 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  [Guild Name]のみんな。
-君たちがここを訪れたということは
-ミッション発動を聞いての事だね?
-ありがとう。今日発動したミッションは
-熟達者に向けた難易度の高いものなんだ。
-このミッションをこなせるのは
-君たちのギルドをおいて他にはないと
-思っているよ。
-だからぜひ、このミッションを
-受領して欲しい。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  Hello, [Guild Name].
+If you're here, then you've heard about the new mission, correct?
+Thank you. Today's mission is for Masters, so the degree of diffculty is quite high.
+Frankly, I don't think any other guild would be up to the task.
+So please accept the mission.
 [End]
 
 -- ID 100 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/002  …おや、君たちか。
-今、まさにミッションを発動しようと
-していた所なんだが…、よかったら
-ぜひ君たちに引き受けて欲しい。
-その内容なんだが…、君たちも
-ソロルとリリという二人組の
-熟達者は知っているだろう。
-今回のミッションは、
-その二人組に関係しているんだ。
-アースランのソロルは、元々旅商人の
-護衛として名を馳せていた。彼女がある時
-ルナリア族のリリと共にこの街に来た。
-二人は冒険者として活動し、すぐに
-この街でトップクラスのギルドとなった。
-評議会では、二人に様々な依頼をし
-二人もまた街のために色々と働いてくれた。
-だが、先ほどネクロマンサーのリリが
-行方不明になったと聞いたのだ。
-冒険者が樹海で行方不明になるのは
-本来仕方がない話なのだが…。
-達人と呼ばれる彼女が行方不明になるのは
-他の冒険者への影響を考えても
-問題だと思うんだ。
-そこで、我ら評議会は二人に
-手を貸すことにした。彼女たちを助ける
-ミッションを発動することでね。
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/002  ...Oh, it's you all.
+I was right about to put up a mission, but I'd like you to take it.
+As for the mission itself... I believe you've met Soleil and Lily, the two-person party of Master adventurers, correct?
+This mission involves the two of them.
+The Earthrun Soleil originally made her name escorting merchant caravans, but one day she showed up in town with the Lunaria Lily.
+The two of them began working as adventurers, and quickly became known as a first rate guild.
+They've done various requests for the Council, and even done all sorts of work throughout town.
+However, we've just now heard that the Necromancer Lily has gone missing.
+While in most cases adventurers going missing in the labyrinth is merely an unfortunate fact of life,
+the disappearance of a Master level adventurer like her will surely have an effect on other adventurers, which could become a problem.
+Which is why the Council wishes to help them out, both of them.
+We're putting up a mission to save them.
 [End]
 
 -- ID 120 --
