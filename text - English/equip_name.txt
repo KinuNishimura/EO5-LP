@@ -81,7 +81,7 @@ Debug Fist
 Wand
 Staff
 Lactarius Staff
-Amudo Staff(?)
+Amud Staff
 Pilgrim's Staff
 Parrot Waddy
 Baculus
@@ -158,7 +158,7 @@ Asa Arashi
 Debug Katana
 ダミー
 ダミー
-Toy Bow
+Suzumekoyumi
 Wood Bow
 Shortbow
 Leech Shortbow
@@ -169,7 +169,7 @@ Flying Squirrel Bow
 Compound Bow
 Longbow
 Beast Greatbow
-Hunting Bow
+Hunter Bow
 Fisher's(?)
 Hell Shooter
 Aged Wood Bow
@@ -241,13 +241,13 @@ Debug Scythe
 Fire Lance
 Hand Cannon
 Madfaa
-Harkenbuke(?)
+Hakenbuchse
 Zhen Tian Fei Pao
-Hauser(?)
+Howitzer(?)
 Kingdom Crumbler (this was a nickname for a kind of 16th century cannon that got imported to Japan and quickly started toppling feudal fiefdoms)
 Arquebus
 Wu Lei Shen Ji
-Dalhgreat(?)
+Dalhgren(?)
 Zal Cannon(?)
 Saker
 Star Bazooka
@@ -255,7 +255,7 @@ Zamzama
 Scissor Cannon
 Parrot Gun
 Mortar
-Trolhauser(?)
+Trawl Howitzer(?)
 Magic Railgun
 Gustaf
 Pepper Cannon
