@@ -1,28 +1,28 @@
-ダガー
-ショートソード
-コピス
-スクラマサクス
-パラッシュ
-マンダウ
-カットラス
-ウルミ
-カンピラン
-シャムシール
-バスタードソード
-アスラト
-アークラフェナ
-ビラオ
-氷蝙蝠の牙剣
-ジョノ
-ニアボル
-パニアード
-ベローズブレイド
-アンサラー
-ペトラフリッサ
-スタンナイフ
-クトネシリカ
-治療ナイフ
-シールグリーブ
+﻿Dagger
+Shortsword
+Kopis
+Scramasax
+Pallasch
+Mandau
+Cutlass
+Urumi
+Kampilan
+Shamshir
+Bastard Sword
+Aslat
+Arc Lafena (?)
+Bilao (?)
+Ice Bat Fang
+Jono(?)
+Niabol (?)
+Paniard(?)
+Bellows Blade
+Answerer
+Petrifrisser
+Stun Knife
+Kutone Silica(?)
+Cure Knife
+Seal Grieve(?)
 ダミー
 ダミー
 ダミー
@@ -37,29 +37,29 @@
 ダミー
 ダミー
 ダミー
-確認用最強剣
-縄のバンデージ
-メリケンサック
-棘付きバンデージ
-クリーパフィスト
-寸鉄
-レイオマノ
-ナックルドギー
-カステット
-クオーツナックル
-アンガーフィスト
-バグズバンデージ
-点穴針
-スファイライ
-ナックルガーダー
-クロウラーナックル
-プラズマフィスト
-ミラージフィスト
-手之内
-ブラストパイル
-ポリュデウケス
-ポイズンナックル
-グリフバスター
+Debug Sword
+Rope Bandage
+Brass Knuckles
+Thorned Bandage
+Creeper Fist
+One-Inch Blade
+Leiomano
+Knuckle Doggy(?)
+Castet
+Quartz Knuckle
+Anger Fist
+Bugs Bandage(?)
+Acupuncture Needle
+Sphairai
+Knuckle Duster
+Crawler Knuckle
+Plasma Fist
+Mirage Fist
+Palm
+Blast Pile
+Polydeuces
+Poison Knuckle
+Griff Buster(?)
 ダミー
 ダミー
 ダミー
@@ -76,34 +76,34 @@
 ダミー
 ダミー
 ダミー
-確認用最強拳
+Debug Fist
 ダミー
-ワンド
-スタッフ
-ラクタリウスの杖
-アムードの杖
-金剛杖
-パロットワディ
-バクルス
-スカルスタッフ
-ジェズル
-レプタイルロッド
-ルーンワンド
-プディンスタッフ
-笠花の権杖
-創魔の杖
-フェザースタッフ
-カースセプター
-アラートバクルス
-フィリアの権杖
+Wand
+Staff
+Lactarius Staff
+Amudo Staff(?)
+Pilgrim's Staff
+Parrot Waddy
+Baculus
+Skull Staff
+Zhezl
+Reptile Rod
+Rune Wand
+Pudding Staff(?)
+Basket Hat Scepter
+Creation Staff
+Phaser Staff
+Curse Scepter
+Alert Baculus
+Philia Scepter
 ダミー
 ダミー
-封頭の杖
-キングスロッド
-ラタトスクの杖
-スコピオロッド
-アサルトワディ
-シールブレイク
+Head Bind Staff
+King's Rod
+Staff of Ratatoskr
+Scorpio Rod
+Assault Waddy
+Seal Break
 ダミー
 ダミー
 ダミー
@@ -117,30 +117,30 @@
 ダミー
 ダミー
 ダミー
-確認用最強杖
-脇差
-ヤマガタナ
-打刀
-小太刀
-波遊
-篠ノ雪
-火車切
-ワラビテ刀
-鬼神大王
-稲葉郷
-猪切
-大包平
-モノホシ竿
-丙辰真改
-焼甲羅の短刀
-燭台切
-唐柏
-山焼亡
-ソボロ
-天羽々斬
-小手切
-慈悲の短刀
-朝嵐
+Debug Staff
+Wakazashi
+Yamagatana
+Uchigatana
+Kodachi
+Namioyogi
+Sasanoyuki
+Kashagiri
+Warabitetō
+Kishin Daiō
+Inabagō
+Inoshishigiri
+Ōkanehira
+Clothesline
+Inoueshinkai
+Shell Tantō
+Shokudaigiri
+Karakashiwa
+Sanshōbō
+Mincemeat
+Amenohabagiri
+Kotegiri
+Merciful Tantō
+Asa Arashi
 ダミー
 ダミー
 ダミー
@@ -155,32 +155,32 @@
 ダミー
 ダミー
 ダミー
-確認用最強刀
+Debug Katana
 ダミー
 ダミー
-雀小弓
-ウッドボウ
-ショートボウ
-毒蛭の短弓
-ヘペライ
-クロスボウ
-ヒンディ
-摸摸具和之弓
-コンパウンドボウ
-ロングボウ
-獣の大弓
-ハンティングボウ
-フィッシャーズ
-ヘルシューター
-老木の弓
-キリングショット
-ファントムアーチ
-デモンズアーチ
-インパルスアロー
-フェイルノート
-睡魔の弓
-蒼月の戦弓
-ゴルゴンアロー
+Toy Bow
+Wood Bow
+Shortbow
+Leech Shortbow
+Heperai (this isn't a Japanese word, it's an Ainu ceremonial arrow)
+Crossbow
+Hindi
+Flying Squirrel Bow
+Compound Bow
+Longbow
+Beast Greatbow
+Hunting Bow
+Fisher's(?)
+Hell Shooter
+Aged Wood Bow
+Killing Shot
+Phantom Arch
+Demon's Arch
+Impulse Apollo
+Failnaught
+Drowsy Bow
+Blue Moon Warbow
+Gorgon Arrow
 ダミー
 ダミー
 ダミー
@@ -196,32 +196,32 @@
 ダミー
 ダミー
 ダミー
-確認用最強弓
+Debug Bow
 ダミー
-縄切り鎌
-草刈り鎌
-鉱石の鎌
-バニーシックル
-陣鎌
-マギーイラナ
-ハルパー
-ザルクヤクト
-薙鎌
-サビット
-モノクロシックル
-カラミティサイズ
-妖魔の狩鎌
-エイプシックル
-芋虫の大鎌
-レブナントフォ
-双頭の鎌
-月鎌
-プレイングサイス
-クレイドル
-パニックサイズ
-脚斬りの鎌
-大和鎌
-ー闇の大鎌
+Rope-cutting Scythe
+Grass-cutting Scythe
+Ore Scythe
+Bunny Sickle
+War Scythe
+Magirana(?)
+Harpy
+Zarkyact(?)
+Mow Down Scythe
+Savitt(?)
+Monochrome Sickle
+Calamity Scythe
+Demon Hunting Scythe
+Ape Sickle
+Caterpillar Scythe
+Revenant Foe
+Double Scythe
+Moon Scythe
+Praying Scythe
+Cradle
+Panic Scythe
+Arm-Cutting Scythe
+Yamato Scythe
+Darkness Scythe
 ダミー
 ダミー
 ダミー
@@ -237,30 +237,30 @@
 ダミー
 ダミー
 ダミー
-確認用最強鎌
-火槍銃
-ハンドカノン
-マドファ
-ハーケンビュクー
-震天雷砲
-ハウザー
-国崩し
-アークウィバス
-五雷神機
-ダルグレーテ
-ザールカノン
-セイカー
-スターバズーカ
-ザムザマ
-シザースカノン
-オウム砲
-モルター
-トロルハウザー
-魔線砲
-グスタフ
-ペッパーカノン
-パラライモルター
-百敵砲
+Debug Scythe
+Fire Lance
+Hand Cannon
+Madfaa
+Harkenbuke(?)
+Zhen Tian Fei Pao
+Hauser(?)
+Kingdom Crumbler (this was a nickname for a kind of 16th century cannon that got imported to Japan and quickly started toppling feudal fiefdoms)
+Arquebus
+Wu Lei Shen Ji
+Dalhgreat(?)
+Zal Cannon(?)
+Saker
+Star Bazooka
+Zamzama
+Scissor Cannon
+Parrot Gun
+Mortar
+Trolhauser(?)
+Magic Railgun
+Gustaf
+Pepper Cannon
+Paralyze Mortar
+Hundred Foe Gun
 ダミー
 ダミー
 ダミー
@@ -276,30 +276,30 @@
 ダミー
 ダミー
 ダミー
-確認用最強砲
+Debug Gun
 ダミー
-カメ棺
-布張棺
-石棺
-リブズコフィン
-キトゥンコフィン
-ジーシーガーミ
-フロートコフィン
-霊柩
-猛獣の棺
-カルニッシュ
-コクピット
-七星棺
-サッドサイプレス
-サルコファガス
-紅甲の棺
-カロート
-ル・セルクイユ
-アイアンメイデン
-レリクアリー
-ブラフマギリ
-呪われし棺
-五〇〇六式巨石棺
+Shell Coffin
+Cloth Coffin
+Stone Coffin
+Rib Coffin
+Kitten Coffin(?)
+Burial Urn
+Float Coffin
+Casket
+Beast Coffin
+Karnice
+Cockpit
+Seven Star Coffin
+Sad Cypress
+Sarcophagus
+Red Shell Coffin
+Carrot(?)
+Le Cercueil
+Iron Maiden
+Reliquary
+Brahmagiri
+Cursed Coffin
+Megalith 5006 Coffin
 ダミー
 ダミー
 ダミー
@@ -310,7 +310,7 @@
 ダミー
 ダミー
 ダミー
-確認用最強棺
+Debug Coffin
 ダミー
 ダミー
 ダミー
