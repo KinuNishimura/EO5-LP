@@ -1,4 +1,4 @@
-硬質な殻斗
+﻿硬質な殻斗
 割れた堅果
 棘付きのツタ
 フカフカな襟巻
@@ -398,71 +398,71 @@
 ユニーク７８
 ユニーク７９
 ユニーク８０
-メディカ
-メディカ?U
-メディカ?V
-メディカ?W
-アムリタ
-アムリタ?U
-ハマオ
-ハマオプライム
-ソーマ
-ソーマプライム
-ネクタル
-ネクタル?U
-テリアカα
-テリアカβ
+Medica
+Medica II
+Medica III
+Medica IV
+Amrita
+Amrita II
+Hamao
+Hamao Prime
+Soma
+Soma Prime
+Nectar
+Nectar II
+Therica α
+Therica β
 ダミー
-耐熱ミスト
-耐氷ミスト
-耐雷ミスト
-絶耐ミスト
-ブレイバント
-ストナード
-ファイアオイル
-フリーズオイル
-ショックオイル
-ラウダナム
-ウニコウル
-聖なる贈り物
-解析グラス
-獣避けの鈴
-獣寄せの鈴
-アリアドネの糸
+Fire Mist
+Ice Mist
+Volt Mist
+Absolute Mist
+Bravant
+Stonard
+Fire Oil
+Freeze Oil
+Shock Oil
+Metopon 
+Unihorn
+Holy Gift
+Analysis Scope
+Ward Chime
+Beast Bell
+Ariadne Thread
 ダミー
-斥候の長靴
-解剖用水溶液
-ダミー
-ダミー
+Guard Sole
+Formaldehyde
 ダミー
 ダミー
 ダミー
-火術の起動符
-氷術の起動符
-雷術の起動符
-火炎術の起動符
-氷結術の起動符
-雷電術の起動符
-盲目の香
-毒の香
-麻痺の香
-混乱の香
-呪いの香
-睡眠の香
-縺れ糸：頭
-縺れ糸：腕
-縺れ糸：脚
 ダミー
 ダミー
-斬術の起動符
-壊術の起動符
-突術の起動符
+Fire Jar
+Ice Jar
+Volt Jar
+Flame Jar
+Frost Jar
+Storm Jar
+Blind Gas
+Poison Gas
+Paralysis Gas
+Panic Gas
+Curse Gas
+Sleep Gas
+Tanglethread: Head
+Tanglethread: Arms
+Tanglethread: Legs
 ダミー
-石化の香
+ダミー
+Cut Jar
+Bash Jar
+Stab Jar
+ダミー
+Petrify Gas
 ダミー
 ダミー
 ダミー
-簡易遠眼鏡
+Simple Scope
 ダミー
 ダミー
 ダミー
