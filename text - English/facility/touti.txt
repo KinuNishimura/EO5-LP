@@ -83,7 +83,7 @@ We can continue this discussion after that.
 Allow me to explain.
 Here in Aeolis, we manage all adventurers, and those with sufficient strength are called [b]Master[/b] class.
 Those who receive this title are recognized by the Council as top-class and are provided instruction in new, Master level skills.
-We currently use missions to 10th floor as a means of determining who is worthy of this title.
+We currently use missions to the 10th floor as a means of determining who is worthy of this title.
 This is a test to ensure that only those adventurers deemed capable will be able to proceed any further.
 [End]
 
