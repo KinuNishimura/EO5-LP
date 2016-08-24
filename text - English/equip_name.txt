@@ -243,7 +243,7 @@ Hand Cannon
 Madfaa
 Hakenbuchse
 Zhen Tian Fei Pao
-Howitzer(?)
+Howitzer
 Kingdom Crumbler (this was a nickname for a kind of 16th century cannon that got imported to Japan and quickly started toppling feudal fiefdoms)
 Arquebus
 Wu Lei Shen Ji
@@ -255,7 +255,7 @@ Zamzama
 Scissor Cannon
 Parrot Gun
 Mortar
-Trawl Howitzer(?)
+Troll Howitzer(?)
 Magic Railgun
 Gustaf
 Pepper Cannon
