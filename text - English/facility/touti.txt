@@ -3,17 +3,18 @@ Given filesize: 0x7596 (actual size: 0x9A66)
 Number of entries: 115
 
 -- ID 0 --
-[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/001   [F812]Earthrun Royalty  This is the Arcadian Council.
-[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/002   It serves as a means for each of the continent's four races to send representatives to watch over Yggdrasil.
-[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/003   You would be new adventurers, yes?
-[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/004   I am [b]Remus[/b]. As Earthrun royalty, I do respect your courage, but I also hope you'll become a positive influence on the future of this city.
-[F81B]V_CHAR_105/EVENT/FIRST_APPEAR/005   [F859] Accept the mission whenever you're ready to begin activities as an adventurer.
+Earthrun Royalty 
+This is the Arcadian Council.
+It serves as a means for each of the continent's four races to send representatives to watch over Yggdrasil.
+You would be new adventurers, yes?
+I am [b]Remus[/b]. As Earthrun royalty, I do respect your courage, but I also hope you'll become a positive influence on the future of this city.
+Accept the mission whenever you're ready to begin activities as an adventurer.
 [End]
 
 -- ID 1 --
 The Council puts up job requests known as [b]Missions[/b].
-[F802]By accepting and completing these requests, you will receive various rewards.
-[F802]Please select [b]Accept Mission[/b] on the menu to check the details.
+By accepting and completing these requests, you will receive various rewards.
+Please select [b]Accept Mission[/b] on the menu to check the details.
 [End]
 
 -- ID 10 --
@@ -22,28 +23,28 @@ Please select [b]Accept Mission[/b] on the menu to check the details.
 [End]
 
 -- ID 11 --
-[F859] You're here to take the mission, correct? Then do so.
-Whatever else you plan to do in this city as an adventurer, you first have to complete this mission.
+You're here to take the mission, correct? Then do so.
+Whatever else you plan to do in this city as an adventurer, you have to complete this mission first.
 [End]
 
 -- ID 12 --
-[F859] [F81B]V_CHAR_105/EVENT/MISSION/REC_AFTER/006  Oh yes, there's something I forgot to mention.
+Oh yes, there's something I forgot to mention.
 Before you take on the first mission, you should visit the town [b]market[/b].
-[F81B]V_CHAR_105/EVENT/MISSION/REC_AFTER/007  You should be able to find everything you'll need there.
+You should be able to find everything you'll need there.
 [End]
 
 -- ID 50 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  If it isn't the members of [Guild Name].
+If it isn't the members of [Guild Name].
 I had a feeling you'd come.
 This time, the council wants you to clear the first stratum and secure a path to the second.
 When you're ready, accept the mission and begin your exploration.
 [End]
 
 -- ID 60 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  Oh, hello [Guild Name].
+Oh, hello [Guild Name].
 Has the labyrinth been treating you well?
 ...What?
-[F81B]V_CHAR_105/EVENT/GENERAL/005  You've discovered a terrible monster in the 2nd stratum?
+You've discovered a terrible monster in the 2nd stratum?
 ...I see. So you've enountered it as well.
 In truth, there are many adventurers on the second stratum recently, so we've received similar troubling reports.
 They speak of an unbelievably huge elephant that shakes the very earth when it appears.
@@ -53,11 +54,11 @@ I'll put up a mission that I'd like you to take.
 [End]
 
 -- ID 70 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  If it isn't everyone from [Guild Name].
+If it isn't everyone from [Guild Name].
 It's been a while since we last met.
 Even your equipment seems better than the last time I saw you.
 I must admit, I enjoy seeing you improve like this.
-[F81B]V_CHAR_105/EVENT/GENERAL/002  So what brings you here today?
+So what brings you here today?
 [End]
 
 -- ID 71 --
@@ -67,19 +68,19 @@ Ask if there are any missions.
 [End]
 
 -- ID 72 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  ...I see, so that's what's going on.
+...I see, so that's what's going on.
 It seems like it was just the other day that you were novice adventurers.
 So it's already time to talk about this...
 [End]
 
 -- ID 73 --
-[F859] But before that, if you were on floor 10, then you must have found a way around the mammoth, correct?
+But before that, if you were on floor 10, then you must have found a way around the mammoth, correct?
 I'd like you to report that matter first.
 We can continue this discussion after that.
 [End]
 
 -- ID 74 --
-[F859] I believe this is a cause for celebration, for both you and the Council.
+I believe this is a cause for celebration, for both you and the Council.
 Allow me to explain.
 Here in Aeolis, we manage all adventurers, and those with sufficient strength are called [b]Master[/b] class.
 Those who receive this title are recognized by the Council as top-class and are provided instruction in new, Master level skills.
@@ -88,7 +89,7 @@ This is a test to ensure that only those adventurers deemed capable will be able
 [End]
 
 -- ID 75 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/003  ...However, it seems it's still too early for you to take the test.
+...However, it seems it's still too early for you to take the test.
 But don't be disheartened.
 It should only be a short while until you're ready to take the test.
 Get a bit more experience in the labyrinth.
@@ -96,36 +97,36 @@ I'd like you to come back when you feel your skills have improved.
 [End]
 
 -- ID 76 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  ...And it seems that you are, at the very least, strong enough to take the test.
+...And it seems that you are, at the very least, strong enough to take the test.
 If your goal is to head deeper into the labyrinth, then by all means accept the mission and clear this test.
 [End]
 
 -- ID 77 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  Hello, everyone from [Guild Name].
+Hello, everyone from [Guild Name].
 Would you like to take the Master test?
 [End]
 
 -- ID 78 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/003  ...I'm sorry, but you're still not ready to take the test.
+...I'm sorry, but you're still not ready to take the test.
 Get a bit more experience in the labyrinth.
 I'd like you to come back when you feel your skills have improved.
 [End]
 
 -- ID 79 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  ...Yes, this won't be a problem.
+...Yes, this won't be a problem.
 It seems you are, at the very least, strong enough to take the test.
 You can take the mission whenever you like.
 [End]
 
 -- ID 80 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  I have something to discuss with you, but...
+I have something to discuss with you, but...
 If you were on floor 10, then you must have found a way around the mammoth, correct?
 I'd like you to report that matter first.
 We can continue this discussion after that.
 [End]
 
 -- ID 90 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  Hello, [Guild Name].
+Hello, [Guild Name].
 If you're here, then you've heard about the new mission, correct?
 Thank you. Today's mission is for Masters, so the degree of diffculty is quite high.
 Frankly, I don't think any other guild would be up to the task.
@@ -133,7 +134,7 @@ So please accept the mission.
 [End]
 
 -- ID 100 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/002  ...Oh, it's you all.
+...Oh, it's you all.
 I was right about to put up a mission, but I'd like you to take it.
 As for the mission itself... I believe you've met Soleil and Lily, the two-person party of Master adventurers, correct?
 This mission involves the two of them.
