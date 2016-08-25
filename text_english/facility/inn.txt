@@ -4,7 +4,7 @@ Number of entries: 78
 
 -- ID 0 --
 Smiling Woman
-Welcome home- wait, huh, a customer?!
+Welcome home-- Wait, huh, a customer?!
 Ooh, I'm so sorry!
 My name's [b]Genetta[/b].
 If you're looking for a place to stay, please consider one of our rooms!
@@ -32,8 +32,8 @@ I can't wait for the stories you'll have for me!
 [End]
 
 -- ID 11 --
-At the inn, you can view other guilds through [b]Streetpass[/b] or [b]QR Codes[/b].
-You can also send your own Guild Card to other players through [b]Streetpass[/b], or receive them in return.
+At the inn, you can view other guilds through [b]StreetPass[/b] or [b]QR Codes[/b].
+You can also send your own Guild Card to other players through [b]StreetPass[/b], or receive them in return.
 Furthermore, you can set a character to your Guild Card and [b]send your own character to another player[/b].
 With QR Codes, you can also [b]receive items or Guild Cards[/b].
 [End]

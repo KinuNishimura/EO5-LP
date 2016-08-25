@@ -47,7 +47,7 @@ Don't tell me she went looking by herself...
 ...
 I-I'm heading to the Labyrinth to look for her!
 You guys make sure she's not in town for me!
-If you find Lily, tell her to stay put!
+Or if you find Lily, tell her to stay put!
 [End]
 
 -- ID 400 --
