@@ -5,21 +5,21 @@ Number of entries: 20
 -- ID 100 --
 You there, are you a new adventurer? You just came out of the Explorers Guild.
 If so, then, as the town crier, I have something to tell you.
-New adventurers must report to the Council to receive a mission.
-Think of it as test to have the town officially recognize you as adventurers.
-If you plan to work here as adventurers, then you have no choice but to take it.
+New explorers must report to the Council to receive a mission.
+Think of it as test to have the town officially recognize you as explorers.
+If you plan to work here as explorers, then you have no choice but to take it.
 If you understand, then head to the Arcadian Council.
 [End]
 
 -- ID 150 --
-There is a new announcement from the Council to all adventurers!
+There is a new announcement from the Council to all explorers!
 Today, the Arcadian Council is assigning a new mission!
 The goal is to explore the 1st Stratum!
 All guilds confident in their skills should report to the Council.
 [End]
 
 -- ID 200 --
-There is a new announcement from the Council to all adventurers!
+There is a new announcement from the Council to all explorers!
 Today, the Arcadian Council is assigning a new mission!
 Furthermore, because this mission would be far too dangerous for anyone less than a Master, only previously recognized guilds may participate!
 All applicable guilds confident in their skills should report to the Council.
@@ -53,7 +53,7 @@ Or if you find Lily, tell her to stay put!
 -- ID 400 --
 So you're all with [Guild Name], right?
 I've got a message from the Guildmaster, Edgar.
-"I've got something to tell you now that you're official adventurers. Come to the Explorers Guild."
+"I've got something to tell you now that you're official explorers. Come to the Guild."
 Well, that was it. He didn't tell me what this was about, so you'll have to ask him yourself at the [b]Explorers Guild[/b].
 Anyway, I've gotta get back to my patrol, so if you'll excuse me...
 [End]

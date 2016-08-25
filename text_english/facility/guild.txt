@@ -5,7 +5,7 @@ Number of entries: 58
 -- ID 0 --
 NAME OVERRIDE: Armor-wearing man
 All the lowlifes in town these days must've 
-forgotten what it means to be an adventurer.
+forgotten what it means to be an explorer.
 There's nothin' but punks who shy away from danger, want stability in life, and are satisfied with just making enough to eat.
 ...You new around here?
 If you're ready to challenge Yggdrasil, then you'd better make your own guild.
@@ -42,7 +42,7 @@ Now, name your guild.
 -- ID 8 --
 [Guild Name], huh?
 Well, what people think of that name is gonna depend on what you do from here on out.
-Next, you gotta recruit some adventurers for your guild.
+Next, you gotta recruit some explorers for your guild.
 Exploring the forest by your lonesome is pretty much impossible.
 You should probably start with at least 5 people with different abilities.
 Up to [b]30 people[/b] can be registered in a guild.
@@ -63,7 +63,7 @@ Once you're done here, you should go see the Arcadian Council.
 [End]
 
 -- ID 12 --
-...You're not gonna get anywhere without an adventuring party.
+...You're not gonna get anywhere without a team.
 First you gotta recruit some allies.
 [End]
 
@@ -73,11 +73,11 @@ Don't forget, talk to the Council before challenging Yggdrasil.
 
 -- ID 20 --
 Oh, you're back, [Guild Name]?
-Looks like you're officially adventurers now.
+Looks like you're officially explorers now.
 But that was just the first step.
 Plenty of punks lose focus and drop out here. Don't forget that.
 But let's get to main topic here.
-As official adventurers, you now have the right to [b]Change Classes[/b].
+As official explorers, you now have the right to [b]Change Classes[/b].
 Classes are basically the skills or techniques passed down by the various races.
 Which means each of the races has inherited classes that they're naturally good at.
 But here in Aeolis, the four races have made an arrangement to help conquer the forest.
