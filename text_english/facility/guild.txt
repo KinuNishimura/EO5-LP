@@ -89,115 +89,76 @@ Just test whatever catches your fancy.
 [End]
 
 -- ID 21 --
-[Color:0x0003]冒険者ギルドで[Color:0x0005]転職[Color:0x0003]が可能になりました。
-転職を行うと、今選択している職業から
-他の職業へと変更できます。
-[Color:0x0000][F802][Color:0x0003]また、[Color:0x0005]転職できる職業に制限は無く[Color:0x0003]
-アースランでも、ウォーロックやマスラオ
-など[Color:0x0005]他種族の職業を選択できます[Color:0x0003]。
-[Color:0x0000][F802][Color:0x0003]ただし、[Color:0x0005]転職を行うと現在のレベルから
-5レベル下がってしまいます[Color:0x0003]ので、
-転職を行う際には注意が必要です。
-[Color:0x0000][End]
+You can now use [b]Class Change[/b] at the Guild.
+With this option you can change from your currently selected class to another class.
+Furthermore, there are [b]no limitations on what class you can change to[/b].
+[b]You can choose the classes of other races[/b], such as a Earthrun Warlock or Masurao.
+However, [b]when you change classes your current level will be reduced by 5[/b], so you need to choose carefully when changing classes.
+[End]
 
 -- ID 30 --
-[F859] [F81B]V_CHAR_103/SYSTEM/ENTER/003   [Guild Name]か。
-評議会から連絡は受けている。
-達人として認められたようだな。
-話は聞いていると思うが、
-達人となったお前たちは
-称号を得ることができる。
-その称号の事を「[Color:0x0005]二つ名[Color:0x0000]」という。
-二つ名は使える技を表すもので
-その名に合わせた新たな技を
-身につけることができるのだ。
-フェンサーという職業で説明しよう。
-「幻影の剣士」を名乗る達人は
-これまで以上に速度や回避を
-活かしたスキルが得られる。
-「迅雷の剣士」を名乗る達人は
-これまで以上に連続攻撃を
-活かしたスキルが得られる。
-[F81B]V_CHAR_103/SYSTEM/MENU/arrange_arrange  己の習得したい技や、仲間との
-バランスを考えながら習得したい側の
-二つ名を選ぶといい。
-また、二つ名は便宜上冒険者ギルドで
-設定しているものがあるのだが、自身が
-新しい名乗りを決めることもできる。
-炎の魔導師、雷帝、氷の剣士等…
-己が使いたい技や行動に応じて
-自由に名乗るといい。
-以上だ。とにかくまずは
-実際に習得してみるといいだろう。
+[Guild Name], huh?
+The council already contacted me.
+Seems like you guys have been recognized as Masters.
+I'm sure you've already heard the gist of it, but as Masters you can be given a title.
+We call it your [b]Second Name[/b].
+A Second Name represents the skills you can use,
+so you'll also be able to learn new skills.
+I'll use the Fencer class as an example.
+A Master who calls themselves an "Illusory Swordsman" will learn more quick and evasive skills than before.
+And a Master who calls themselves a "Thunderclap Swordsman" will learn more consecutive attack skills than before.
+You can choose based on what skills want to learn, or to try and keep the party balanced. Do whatever you like.
+Also, while the guild does have predetermined Second Names for your convenience, you can come up with your own names too.
+Flame Wizard, Thunder Emperor, Icy Swordsman, whatever. Just as you're free to pick your own skills, you can call yourself whatever you like.
+Explanation over.
+You'll learn faster by doing.
 [End]
 
 -- ID 31 --
-[Color:0x0003]「冒険者ギルド」で[Color:0x0005]「二つ名習得」[Color:0x0003]が
-可能になりました。[Color:0x0000]
-[Color:0x0003]二つ名習得とは、その名に合わせた
-新たな技を身につけることが
-できる修行です。
-[Color:0x0003][Color:0x0005]「冒険者の管理」[Color:0x0003]から
-[Color:0x0005]レベルが20以上[Color:0x0003]の冒険者を選んで
-[Color:0x0005]「二つ名習得」[Color:0x0003]を選択してみましょう。[Color:0x0000]
+You may now pick [b]Acquire a Second Name[/b] at the Explorer's Guild.
+Acquiring a Second Name means training to be able to learn new skills appropriate for that name.
+From the [b]Manage Party[/b] menu, choose an explorer who is [b]level 20 or above[/b] and select [b]Acquire a Second Name[/b].
 [End]
 
 -- ID 32 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/001  おっと、忘れるところだった。
-達人と認められたお前たちに
-渡しておくものがあったのだ。
+Whoops, there was something else I was supposed to give you when you became Masters.
 [End]
 
 -- ID 33 --
-[F859] それを持って、[Color:0x0005]酒場[Color:0x0000]にいる
-[Color:0x0005]ルナリアの老学者[Color:0x0000]と話をしてみろ。
-お前たちにとっていい話が
-聞けるはずだ。
+Try taking those to the [b]Old Lunarian Scholar[/b] at the [b]bar[/b].
+I'm guessing you'll be interested in what he has to say.
 [End]
 
 -- ID 50 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/002  世界樹の探索が解禁されたとはいえ、
-樹海へ行くためには評議会の認可を
-受ける必要がある。
-まずはギルドに登録し、仲間を集った後
-評議会へと向かうといい。
+The ban on exploring Yggdrasil may have been lifted, but you still need permission from the council.
+Once your done forming a guild and recruiting your paty, you should head over to the council building.
 [End]
 
 -- ID 100 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/001  お前たちは[Guild Name]だったな。
-ようやく樹海の探索を開始したようだな。
-お節介ながらお前たちに一つ助言をすると、
-目的に合わせて編成を変えることで効率よく
-探索を行うことができるということだ。
-例えば伐採や採取、採掘を行う者と
-戦闘に出る者を分けるなど、
-目的に合わせて編成を特化するのだ。
-この助言、生かすも殺すもお前たち次第だ。
-だが、行き詰まった時には
-私の言葉を思い出すのもいいだろう。
+You guys were [Guild Name], right?
+Looks like you can finally start exploring Yggdrasil.
+I don't like sticking my nose into other people's business, but let me give you some advice.
+Change your party comp based on what your doing. That'll make exploration go much smoother.
+For example, you can keep your miners, choppers, and gatherings separate from your battle team. Specialize.
+Not that you have to do that. It's up to you.
+Just try to keep it in mind if you ever hit a wall.
 [End]
 
 -- ID 101 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/003  2階へと辿り着いたか。
-初めにしては上出来だ。
-お前たちと同時期に樹海へ向かった連中の
-2割方は1階で歩みを止めたそうだ。
-命を落とした者も少なくはない。
-お前たちが挑戦している樹海とは
-そういう場所だ。生半可な覚悟では
-無駄死にしていくだけだ。
-そのことを努々忘れないことだな。
+So you reached the 2nd floor, huh?
+Not bad for beginners. I hear a fifth of the guilds who started at the same time as you gave up on the 1st floor.
+More than few have lost their lives.
+That's what it means to challenge Yggdrasil.
+Go in there half-hearted and you'll just die a meaningless death.
+Never forget that.
 [End]
 
 -- ID 102 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/003  ほう、3階へと到達したか。
-どうやらお前たちは
-私の想像よりも幾分か優秀なようだな。
-[F81B]V_CHAR_103/EVENT/GENERAL/002  だが、3階には恐ろしいヤツがいる。
-その魔物と相対したとき、
-お前たちがどういう判断をするか。
-そこで下した判断が
-今後のお前たちの命運を左右するだろう。
+Oh, the 3rd floor, eh?
+Seems like you guys are just little better than I thought.
+But the 3rd floor is home to some terrible beasts.
+I wonder how you'll react when you come face to face with those monsters.
+What you decide then will determine your fate.
 [End]
 
 -- ID 103 --
