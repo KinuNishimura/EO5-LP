@@ -224,153 +224,119 @@ We're putting up a mission to save them.
 [End]
 
 -- ID 500 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/002  …どうかしたのかい?
-気遅れするかもしれないけれど
-冒険者となるための試練なんだ。
-決意してミッションを受けてくれたまえ。
+...What's wrong?
+I don't know if you're nervous or what, but this is a test to become an explorer.
+You need to take this mission.
 [End]
 
 -- ID 501 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/009  では頑張ってきておくれ。
+Good luck out there.
 [End]
 
 -- ID 510 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  樹海の中には
-[Item:0x06F0]と呼ばれる魚が
-生息していると聞く。
-探索に慣れた冒険者は、それを釣り
-食料として有効活用するそうだ。
-君たちもよかったら試してみるといい。
+I've heard a fish known as the [Item:0x06F0] (probably "Labyrinth Fish") lives in the Labyrinth.
+Apparently experienced explorers fish them up as a food source.
+Why not try it out for yourselves?
 [End]
 
 -- ID 511 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  世界樹の迷宮の探索は順調かい?
-2階なら衛兵が巡回していたり、街の者が
-出かけている事もある場所だ。
-出会ったら色々と話してみるといい。
-みんな、きっと手助けしてくれるだろう。
+Is your exploration of Yggdrasil going well?
+We have guards patrolling the 2nd floor, so even citizens can visit it.
+If you run into one, why not have a chat?
+I'm sure they'd be willing to help you out too.
 [End]
 
 -- ID 512 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  君たちは、その昔、世界樹が
-戦火に包まれたことは知っているかい?
+Were you aware that, long ago, even Yggdrasil was wrapped up in the flame of war?
 [End]
 
 -- ID 513 --
-[Color:0x0005]何と答えますか?[Color:0x0000]
-知っている
-知らない
+[b]How will you reply?[/b]
+"I knew that."
+"I never knew that."
 [End]
 
 -- ID 514 --
-[F859] なら話は早いね。その悲劇を繰り返さない為
-ルナリアの人形遣いと言われる魔法使い達が
-樹海の各地にゴーレムを配属させたんだ。
-時は流れ、人形遣いは滅んだ。そして
-彼らが生み出したゴーレムは、今は
-樹海に挑む冒険者へ課す試練となっている。
-それにより、知恵や力の足りない者が
-樹海の奥へ迷い込み、不幸な結果を
-うまないようにしているんだ。
+Then I won't have to explain.
+In order to prevent that tragedy from ever happening again, Lunarian wizards known as Puppeteers placed golems all over the Labyrinth.
+The Puppeteers have been lost to history, but the golems they created are still in the Labyrinth, serving as a trial of sort for explorers.
+Thanks to that, explorers with insufficient strength or intelligence find themselves lost in the depths of the Labyrinth.
+A misfortunate fate, as you can imagine.
 [End]
 
 -- ID 515 --
-[F859] そうか。まあ古い伝説のような話だ。
-知らなくても普通かもしれないね。
-少し長い話だけど、興味があるなら
-話してあげてもいいのだが…。
+I see. Well, it's just an old legend.
+Maybe most people don't know.
+It's a bit of a long story, but I'm willing to tell it if you don't mind.
 [End]
 
 -- ID 516 --
-[Color:0x0005]何と答えますか?[Color:0x0000]
-聞かせて欲しい
-今はいい
+[b]How will you reply?[/b]
+"I'd like to hear it."
+"Not now."
 [End]
 
 -- ID 517 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  いいだろう。これは王族に伝わっている
-古い古い歴史とも神話ともいわれる話だ。
-かつて、世界樹の伝説の力を求めた
-暴王と呼ばれし者が、軍勢を率いて
-この地に侵略したんだ。
-軍の力を使って、世界樹の伝説を
-独り占めしようと考えてね。
-そのやり方が、あまりに酷かった。
-近隣の森を焼き、村を襲い、自国の兵を
-駐屯させて、他の国や種族の冒険者を
-全て近づけぬように試みたのだ。
-他の国や種族の長たちは、暴王のやり方に
-反抗し、その軍を排除しようとし
-それぞれもまた軍勢を繰り出した。
-これが、伝説の大戦と呼ばれた戦いだ。
-…長きにわたって戦乱は続き
-さすがの暴王の軍勢も、諸国連合の前には
-屈服し、本国へ撤退したという。
-ルナリア族の人形遣いの手で
-世界樹の麓にゴーレムが
-安置されたのはそれからだと聞く。
-暴王のような危険な者が再び現れた時
-樹海を守るための護衛としたんだろう。
-狙い通りに、以後、樹海は人が
-立ち入ることのできない禁足の地として
-長い間護られてきた。
-しかし、長い年月の間に人形遣いたちは
-滅び、護衛のゴーレムたちの力も
-弱まってしまった…。
-最近になって4種族の長たちが話し合い
-結界の弱まった今こそ、再び世界樹に
-挑むべきだとなったのだが…
-軍の力は使わず、あくまで冒険者たち
-個人の力量によるものだと決められている。
-だから君たちも頑張ってもらいたい。
+Very well.
+This is ancient, ancient history passed down through the royal family. You could even call it a myth.
+Long ago, there was a man, later known as a mad king,
+who sought the legendary power of Yggdrasil and invaded other countries with his army to get it.
+He thought he could use military might to secure Yggdrasil's power.
+But his methods were far too cruel.
+He burnt the nearby forests, raided the villages, and stationed his troops nearby so no other nation's or race's explorers could approach.
+Naturally, the leaders of the other nations and races disapproved of this mad king, and sought to remove his troops by sending their own militaries.
+This led to the Great War of the legends.
+After a long period of continuous battle, the mad king and his troops succumbed to the alliance military and were forced to retreat to their homeland.
+I hear that later, Lunarian Puppeteers installed golems at the foothills of Yggdrasil.
+They were probably meant to protect Yggdrasil in case anyone like the mad king showed up again.
+And just as planned, they continued to guard it for a long time. Yggdrasil became forbidden territory, and no one could enter.
+However, over the long years the Puppeteers have died out, and the power of the golems waned.
+The leaders of the four races held a conference and determined that since the barrier was weakening,
+now was the time to reopen exploration of Yggdrasil.
+Only this time it wouldn't be done by armies, but through the talents of private explorers.
+So I hope you keep up the good work.
 [End]
 
 -- ID 518 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/007  …そうか。
-では、興味を持った際に話しかけておくれ。
+...I see.
+Well, if you ever change your mind, just ask.
 [End]
 
 -- ID 519 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  やぁ、君たちか。
-以前に話した古い伝説を聞きたいのかい?
+Oh, hello everyone.
+Would you like to hear about that old legend we were discussing?
 [End]
 
 -- ID 520 --
-[Color:0x0005]何と答えますか?[Color:0x0000]
-聞かせて欲しい
-別にいい
+[b]How will you reply?[/b]
+"I'd love to."
+"Not really."
 [End]
 
 -- ID 521 --
-[F859] そうか、なら樹海について
-一つ伝えておこう。
-樹海を探索していれば、他にも冒険している
-冒険者に出会うこともあるだろう。
-そんな時、彼らのアドバイスには
-従うといい。樹海を旅する者同士、為になる
-言葉をくれるだろうからね。
+I see. Then I'll give you a Labyrinth tip instead.
+When you're exploring, you're sure to run into other explorers.
+When that happens, you should take their advice.
+They're fellow travelers of the Labyrinth, so I'm sure they'll have something useful to say.
 [End]
 
 -- ID 522 --
-[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  やぁ、君たちか。
-以前に話した古い伝説を聞きたいのかい?
+Oh, hello everyone.
+Would you like to hear about that old legend we were discussing?
 [End]
 
 -- ID 523 --
-[Color:0x0005]何と答えますか?[Color:0x0000]
-聞かせて欲しい
-別にいい
+[b]How will you reply?[/b]
+"I'd love to."
+"Not really."
 [End]
 
 -- ID 524 --
-[F859] そうか、なら樹海について
-一つ伝えておこう。
-このフロアには、ルナリア族の人形遣いが
-残したゴーレムが眠っている。
-君たちが先へと進むためには乗り越えないと
-いけない障害となるだろう。
-[F81B]V_CHAR_105/EVENT/GENERAL/003  だが、君たちなら倒せるはずだ。
-焦らず、挫けず、努力を続けて欲しい。
+I see. Then I'll give you a Labyrinth tip instead.
+On this floor there sleeps a golem left behind by a Lunarian Puppeteer.
+No doubt you'll have to overcome it if you want to progress.
+But I'm sure you're up to the task.
+Don't be impatient, and don't despair. Just keep trying.
 [End]
 
 -- ID 525 --
