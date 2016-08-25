@@ -1,16 +1,16 @@
-File: sakaba
+﻿File: sakaba
 Given filesize: 0x4268 (actual size: 0x13FC8)
 Number of entries: 50
 
 -- ID 0 --
 Lunarian Woman
-My, are you new here?
+My, is this your first time here?
 Fresh explorers, perhaps?
 This is [BAR NAME], a bar that mediates requests for explorers.
 I'm [b]Melina[/b], the owner.
 It's a pleasure, rookies.
 I can only show the requests to guilds that have passed the Council's test though.
-Why don't you [b]complete the mission[/b] and come back later?
+Why don't you [b]complete the mission[/b] first?
 [End]
 
 -- ID 5 --
@@ -19,126 +19,88 @@ Let me explain how requests work then.
 We take all sorts of requests here. For example, requests for Labyrinth materials or monster extermination or the like.
 The difficulty varies widely depending on what's required, so as a rule there are some I won't even mention to you.
 The available requests are determined by what floor in Labyrinth you've reached.
-In other words, the deeper you get into the Labyrinth, you can take more and more difficult requests.
+In other words, the deeper you get into the Labyrinth, the more and more difficult requests you can take.
 After completing a request, you'll earn a [b]reward[/b].
 If you want to make it big, it might be best to keep up with requests as you explore the Labyrinth.
 [End]
 
 -- ID 6 --
-[Color:0x0003]酒場では[Color:0x0005]クエスト[Color:0x0003]と呼ばれる
-仕事の依頼を受けることが出来ます。
-[Color:0x0000][F802][Color:0x0003]クエストには様々な物があり、達成する事で
-報酬を得ることが出来ます。
-[Color:0x0000][F802][Color:0x0003]クエストを受ける時は
-メニューの[Color:0x0005]クエストを受ける[Color:0x0003]を選んで
-詳細を確認してみて下さい。
-[Color:0x0000][End]
+You can take job requests called [b]quests[/b] at the bar.
+Quests allow you collect rewards by completing various tasks.
+When taking a quest, select [b]Take Quest[/b] on the memu to see more details.[End]
 
 -- ID 10 --
-[F812]ルナリアの女性  [F81B]V_CHAR_102/EVENT/FIRST_APPEAR/001   あら、あなたたち初めてよね?
-[F81B]V_CHAR_102/EVENT/FIRST_APPEAR/002   新人の冒険者さんかしら?
-ここは魔女の黄昏亭、冒険者さん相手に
-色々な依頼を仲介している酒場よ。
-[F81B]V_CHAR_102/EVENT/FIRST_APPEAR/003   私は[Color:0x0005]メリーナ[Color:0x0000]。この店の店主よ。
-よろしくね、新人さん。
-[F859] だけど、依頼は評議会のミッションを
-クリアしたギルドにしか紹介できないの。
-あなたたちは今評議会からミッションを
-請け負っているでしょう?
-まずはその[Color:0x0005]ミッションをこなしてから、[Color:0x0000]
-再度お店に来て頂戴。
+Lunarian Woman
+My, is this your first time here?
+Fresh explorers, perhaps?
+This is [BAR NAME], a bar that mediates requests for explorers.
+I'm [b]Melina[/b], the owner.
+It's a pleasure, rookies.
+I can only show the requests to guilds that have passed the Council's test though.
+Why don't you [b]complete the mission[/b] and come back later?
 [End]
 
 -- ID 50 --
-[F859] [F81B]V_CHAR_102/EVENT/GENERAL/001  仕事がしたいの?
-…ごめんなさい。評議会が定めた
-ミッションをクリアしていない冒険者には
-仕事を任せることはできないの。
-まずは評議会のミッションを
-こなしてから来て頂戴。
+You're looking for work?
+...Sorry. The council says I can't give work to explorers until they've cleared the mission.
+Trying checking back when you're finished.
 [End]
 
 -- ID 52 --
-[F812]ルナリアの女性  [F81B]V_CHAR_102/EVENT/FIRST_APPEAR/001   あら、あなたたち初めてよね?
-[F81B]V_CHAR_102/EVENT/FIRST_APPEAR/002   新人の冒険者さんかしら?
-ここは魔女の黄昏亭、冒険者さん相手に
-色々な依頼を仲介している酒場よ。
-[F81B]V_CHAR_102/EVENT/FIRST_APPEAR/003   私は[Color:0x0005]メリーナ[Color:0x0000]。この店の店主よ。
-よろしくね、新人さん。
-[F859] あら、すでに評議会のミッションを
-終えているのね。素敵じゃない。
-この店では、評議会から樹海進入の許可を
-もらった冒険者にしか依頼を斡旋することは
-できないの。
-あなたたちはすでにクリアしているから、
-すぐにでも仕事を紹介することが
-できるわよ。
-それじゃ、依頼について説明するわね。
-ここには様々な内容の依頼が持ち込まれて
-くるの。
-例えば、樹海で素材を収拾してくるとか、
-魔物の討伐依頼などね。
-依頼の内容による難易度の違いは、
-その時々によるから一概には言えないの。
-でも依頼を受ける冒険者が樹海の何階まで
-攻略しているか次第で、振り分ける依頼を
-決めているの。
-だから樹海の奥に進めば進むほど
-難しい依頼を引き受けることができるように
-なるわ。
-それと、依頼を達成することであなたたちは
-[Color:0x0005]報酬[Color:0x0000]を得ることができる。
-たくさん稼ぎたければ、
-樹海の攻略と並行しながら依頼を
-進めるのがいいかもしれないわね。
+Lunarian Woman
+My, is this your first time here?
+Fresh explorers, perhaps?
+This is [BAR NAME], a bar that mediates requests for explorers.
+I'm [b]Melina[/b], the owner.
+It's a pleasure, rookies.
+Oh, you've already finished the council's mission. Lovely.
+We're only allowed to give negotiate requests for explorers who have the council's permission to enter the Labyrinth.
+Since you've already got it, you can start looking at requests right away.
+So I should probably explain how it works.
+We take all sorts of requests here. For example, requests for Labyrinth materials or monster extermination or the like.
+The difficulty varies widely depending on what's required, so as a rule there are some I won't even mention to you.
+The available requests are determined by what floor in Labyrinth you've reached.
+In other words, the deeper you get into the Labyrinth, the more and more difficult requests you can take.
+After completing a request, you'll earn a [b]reward[/b].
+If you want to make it big, it might be best to keep up with requests as you explore the Labyrinth.
 [End]
 
 -- ID 100 --
-[F859] [F81B]V_CHAR_102/EVENT/GENERAL/010  樹海から帰ってきたのね。
-初めての樹海はいかがだったかしら?
-見た目はすごく静かで神秘的な所だけれど、
-その実、常にあなたたちの命を狙って
-口を開けている。樹海はそういう所なの。
-評議会が世界樹への立ち入りを解禁して
-まだ日が浅いけれど、既に何人もの
-冒険者が行方をくらませているわ。
-あなたたちも気をつけてね。
+So you're back from the Labyrinth then.
+How did you find it?
+While at first glance it may seem peaceful, or even sacred, in truth it's always got its jaws wrapped around your throat, ready to snap.
+That's just the sort of place it is.
+It hasn't been all that long since the council lifted the ban on entry,
+but plenty of explorers have already gone missing.
+You watch your back out there too.
 [End]
 
 -- ID 101 --
-[F859] 時に樹海では、今のあなたたちでは
-到底勝つことのできない魔物と出会うことが
-あるわ。そういう時はすぐに逃げるのよ。
-[F81B]V_CHAR_102/BATTLE/SK_AST_PT/001   樹海に必要なのは勇気じゃないの、
-[Color:0x0005]慎重さ[Color:0x0000]よ。
+Every so often, you'll run into a monster in the Labyrinth that you can't possibly beat as you are now.
+Whenever that happens, you shoudl run away. What you need most in the Labyrinth isn't courage, it's [b]prudence[/b].
 [End]
 
 -- ID 102 --
-[F859] [F81B]V_CHAR_102/EVENT/GENERAL/001  あら、もう3階まで進んだの?
+My, you've already reached the 3rd floor?
 [End]
 
 -- ID 103 --
-[Color:0x0005]何と答えますか?[Color:0x0000]
-すぐに第一階層を踏破する
-これからはより慎重に行く
+[b]How will you reply?[/b]
+"We'll be done with this stratum in no time."
+"We'll need to be more cautious from here on out."
 [End]
 
 -- ID 104 --
-[F859] [F81B]V_CHAR_102/EVENT/GENERAL/009  あら、頼もしいわね。
-けれど樹海はあなたたちが思っているよりも
-ずっと危険な場所なの。
-勇気と無謀を履き違えないように
-気をつけてね。
+Oh, that sounds promising.
+But the Labyrinth is far more dangerous than you seem to think.
+Be sure not to mistake recklessness for courage.
 [End]
 
 -- ID 105 --
-[F859] [F81B]V_CHAR_102/EVENT/GENERAL/004  あら、あなたたちって私が思っていたよりも
-冷静なのね。
-樹海は階を増すごとに危険が増す。
-急ぎたい時でも回り道したほうが
-早く進むことができることもあるの。
-これからもその慎重さを忘れず、
-がんばってね。
+Oh, you're more level headed than I was expecting.
+The Labyrinth gets more and more dangerous as you get further up.
+And even if you're in a hurry, sometimes the shortest route requires a detour.
+Never forget to stay cautious, and keep it up.
 [End]
 
 -- ID 106 --

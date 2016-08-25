@@ -3,7 +3,7 @@ Given filesize: 0x154E (actual size: 0x529E)
 Number of entries: 20
 
 -- ID 100 --
-You there, are you a new adventurer? You just came out of the Explorers Guild.
+You there, are you a new explorer? You just came out of the Explorers Guild.
 If so, then, as the town crier, I have something to tell you.
 New explorers must report to the Council to receive a mission.
 Think of it as test to have the town officially recognize you as explorers.
