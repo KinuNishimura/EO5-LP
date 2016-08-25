@@ -3,28 +3,28 @@ Given filesize: 0x7596 (actual size: 0x9A66)
 Number of entries: 115
 
 -- ID 0 --
-Earthrun Royalty 
+NAME OVERRIDE: Earthrun royalty
 This is the Arcadian Council.
 It serves as a means for each of the continent's four races to send representatives to watch over Yggdrasil.
-You would be new adventurers, yes?
+You would be new explorers, yes?
 I am [b]Remus[/b]. As Earthrun royalty, I do respect your courage, but I also hope you'll become a positive influence on the future of this city.
-Accept the mission whenever you're ready to begin activities as an adventurer.
+Accept the mission whenever you're ready to begin activities as an explorer.
 [End]
 
 -- ID 1 --
 The Council puts up job requests known as [b]Missions[/b].
 By accepting and completing these requests, you will receive various rewards.
-Please select [b]Accept Mission[/b] on the menu to check the details.
+Select [b]Accept Mission[/b] on the menu to check the details.
 [End]
 
 -- ID 10 --
 A [b]new mission[/b] has been posted.
-Please select [b]Accept Mission[/b] on the menu to check the details.
+Select [b]Accept Mission[/b] on the menu to check the details.
 [End]
 
 -- ID 11 --
 You're here to take the mission, correct? Then do so.
-Whatever else you plan to do in this city as an adventurer, you have to complete this mission first.
+Whatever else you plan to do in this city as an explorer, you have to complete this mission first.
 [End]
 
 -- ID 12 --
@@ -36,20 +36,20 @@ You should be able to find everything you'll need there.
 -- ID 50 --
 If it isn't the members of [Guild Name].
 I had a feeling you'd come.
-This time, the council wants you to clear the first stratum and secure a path to the second.
+This time, the council wants you to clear the 1st Stratum and secure a path to the second.
 When you're ready, accept the mission and begin your exploration.
 [End]
 
 -- ID 60 --
 Oh, hello [Guild Name].
-Has the labyrinth been treating you well?
+Has the Labyrinth been treating you well?
 ...What?
-You've discovered a terrible monster in the 2nd stratum?
-...I see. So you've enountered it as well.
-In truth, there are many adventurers on the second stratum recently, so we've received similar troubling reports.
+You've discovered a terrible monster in the 2nd Stratum?
+...I see. So you've encountered it as well.
+In truth, there are many explorers on the 2nd Stratum recently, so we've received similar troubling reports.
 They speak of an unbelievably huge elephant that shakes the very earth when it appears.
-I had taken this to merely be exaggeration by cowardly adventurers, but if people like you can verify it then it must be true.
-In which case the Council cannot stand idly by.
+I had taken this to merely be exaggeration by cowardly explorers, but if people like you can verify it, then it must be true.
+In which case, the Council cannot stand idly by.
 I'll put up a mission that I'd like you to take.
 [End]
 
@@ -58,7 +58,7 @@ If it isn't everyone from [Guild Name].
 It's been a while since we last met.
 Even your equipment seems better than the last time I saw you.
 I must admit, I enjoy seeing you improve like this.
-So what brings you here today?
+So, what brings you here today?
 [End]
 
 -- ID 71 --
@@ -69,7 +69,7 @@ Ask if there are any missions.
 
 -- ID 72 --
 ...I see, so that's what's going on.
-It seems like it was just the other day that you were novice adventurers.
+It seems like it was just the other day that you were novice explorers.
 So it's already time to talk about this...
 [End]
 
@@ -82,23 +82,23 @@ We can continue this discussion after that.
 -- ID 74 --
 I believe this is a cause for celebration, for both you and the Council.
 Allow me to explain.
-Here in Aeolis, we manage all adventurers, and those with sufficient strength are called [b]Master[/b] class.
+Here in Aeolis, we manage all explorers, and those with sufficient strength are called [b]Master[/b] class.
 Those who receive this title are recognized by the Council as top-class and are provided instruction in new, Master level skills.
 We currently use missions to the 10th floor as a means of determining who is worthy of this title.
-This is a test to ensure that only those adventurers deemed capable will be able to proceed any further.
+This is a test to ensure that only those explorers deemed capable will be able to proceed any further.
 [End]
 
 -- ID 75 --
 ...However, it seems it's still too early for you to take the test.
 But don't be disheartened.
 It should only be a short while until you're ready to take the test.
-Get a bit more experience in the labyrinth.
+Get a bit more experience in the Labyrinth.
 I'd like you to come back when you feel your skills have improved.
 [End]
 
 -- ID 76 --
 ...And it seems that you are, at the very least, strong enough to take the test.
-If your goal is to head deeper into the labyrinth, then by all means accept the mission and clear this test.
+If your goal is to head deeper into the labyrinth, then by all means, accept the mission and clear this test.
 [End]
 
 -- ID 77 --
@@ -108,7 +108,7 @@ Would you like to take the Master test?
 
 -- ID 78 --
 ...I'm sorry, but you're still not ready to take the test.
-Get a bit more experience in the labyrinth.
+Get a bit more experience in the Labyrinth.
 I'd like you to come back when you feel your skills have improved.
 [End]
 
@@ -130,20 +130,20 @@ Hello, [Guild Name].
 If you're here, then you've heard about the new mission, correct?
 Thank you. Today's mission is for Masters, so the degree of diffculty is quite high.
 Frankly, I don't think any other guild would be up to the task.
-So please accept the mission.
+So, please accept the mission.
 [End]
 
 -- ID 100 --
 ...Oh, it's you all.
-I was right about to put up a mission, but I'd like you to take it.
-As for the mission itself... I believe you've met Soleil and Lily, the two-person party of Master adventurers, correct?
+I was about to put up a mission, but I'd like you to take it.
+As for the mission itself... I believe you've met Soleil and Lily, the two-person party of Master explorers, correct?
 This mission involves the two of them.
-The Earthrun Soleil originally made her name escorting merchant caravans, but one day she showed up in town with the Lunaria Lily.
-The two of them began working as adventurers, and quickly became known as a first rate guild.
+The Earthrun Soleil originally made her name escorting merchant caravans, but one day she showed up in town with the Lunarian Lily.
+The two of them began working as explorers, and quickly became known as a first rate guild.
 They've done various requests for the Council, and even done all sorts of work throughout town.
-However, we've just now heard that the Necromancer Lily has gone missing.
-While in most cases adventurers going missing in the labyrinth is merely an unfortunate fact of life,
-the disappearance of a Master level adventurer like her will surely have an effect on other adventurers, which could become a problem.
+However, we've just now heard that Lily has gone missing.
+In most cases, explorers going missing in the Labyrinth is merely an unfortunate fact of life.
+However, the disappearance of a Master-level explorer like her will surely have an effect on other explorers, which could become a problem.
 Which is why the Council wishes to help them out, both of them.
 We're putting up a mission to save them.
 [End]
@@ -235,7 +235,7 @@ Good luck out there.
 
 -- ID 510 --
 I've heard a fish known as the [Item:0x06F0] (probably "Labyrinth Fish") lives in the Labyrinth.
-Apparently experienced explorers fish them up as a food source.
+Apparently, experienced explorers fish them up as a food source.
 Why not try it out for yourselves?
 [End]
 
