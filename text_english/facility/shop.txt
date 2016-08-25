@@ -3,7 +3,7 @@ Given filesize: 0x41CC (actual size: 0x141FC)
 Number of entries: 57
 
 -- ID 0 --
-Brownie Boy
+NAME OVERRIDE: Brownie boy
 Welcome to the store!
 Huh? Haven't seen you around before.
 Well, welcome to town then! I'm the shopkeep here,
@@ -11,14 +11,14 @@ Well, welcome to town then! I'm the shopkeep here,
 [End]
 
 -- ID 1 --
-Me, I came here after hearing the rumors about the Labyrinth of Yggdrasil.
+I came here after hearing the rumors about the Labyrinth of Yggdrasil.
 I mean, there's all kinds of never-before-seen stuff in there, right?
 Figured I could make a killing by dealing in it.
 So if you ever see anything like that, bring it to me!
 [End]
 
 -- ID 2 --
-Right right, before you go to the labyrinth, you've gotta find a nice inn to stay at.
+Right, right, before you go to the Labyrinth, you've gotta find a nice inn to stay at.
 If you're gonna be in this neighborhood, I recommend [b]Genetta's[/b].
 [End]
 
@@ -27,9 +27,9 @@ Welcome back!
 Hehe, I already heard from the Council.
 Congrats on clearing that mission!
 So to cut to the chase, you've got permission to buy [b]Ariadne Threads[/b] now.
-An [b]Ariadne Thread[/b] lets you pop back to town from the labyrinth at a moment's notice. 
+An [b]Ariadne Thread[/b] lets you pop back to town from the Labyrinth at a moment's notice. 
 Every adventure needs one or two of 'em.
-So you're heading back to the labyrinth after this, right?
+So you're heading back to the Labyrinth after this, right?
 Then buy one and test it out!
 [End]
 
@@ -38,31 +38,35 @@ Whoops, that wasn't all.
 I already heard from the Council.
 Congrats on clearing that mission!
 So to cut to the chase, you've got permission to buy [b]Ariadne Threads[/b] now.
-An [b]Ariadne Thread[/b] lets you pop back to town from the labyrinth at a moment's notice. 
+An [b]Ariadne Thread[/b] lets you pop back to town from the Labyrinth at a moment's notice. 
 Every adventure needs one or two of 'em.
-So you're heading back to the labyrinth after this, right?
+So you're heading back to the Labyrinth after this, right?
 Then buy one and test it out!
 [End]
 
 -- ID 30 --
+SYSTEM TEXT
 At Ceric's shop, you can buy equipment and other things you might need.
 More equipment and items become available as you 
-[b]sell[/b]him[b]materials from the labyrinth[/b].
+[b]sell[/b] him [b]materials from the Labyrinth[/b].
 [End]
 
 -- ID 31 --
+SYSTEM TEXT
 When [b]selling off items in your inventory[/b],
 use the [b]Y button[/b] to efficently [b]sell in bulk[/b].
 [End]
 
 -- ID 32 --
-By using the [b]L and R buttons[/b], you can [b]scroll through the portraits[/b] on the bottom screen and select a character.
+SYSTEM TEXT
+By using the [b]L and R Buttons[/b], you can [b]scroll through characters[/b] on the bottom screen.
 Use this when comparing equipment and such.
 [End]
 
 -- ID 33 --
-By taking advantage of functions like these, your exploration will go more smoothly,
-so please make good use of them.
+SYSTEM TEXT
+By taking advantage of functions like these, your exploration will go more smoothly.
+Make good use of them.
 [End]
 
 -- ID 50 --
