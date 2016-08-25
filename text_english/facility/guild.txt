@@ -92,7 +92,7 @@ Just test whatever catches your fancy.
 You can now use [b]Class Change[/b] at the Guild.
 With this option you can change from your currently selected class to another class.
 Furthermore, there are [b]no limitations on what class you can change to[/b].
-[b]You can choose the classes of other races[/b], such as a Earthrun Warlock or Masurao.
+[b]You can choose the classes of other races[/b], such as an Earthrun Warlock or Masurao.
 However, [b]when you change classes your current level will be reduced by 5[/b], so you need to choose carefully when changing classes.
 [End]
 
