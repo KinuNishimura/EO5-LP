@@ -3,10 +3,10 @@ Given filesize: 0x4268 (actual size: 0x13FC8)
 Number of entries: 50
 
 -- ID 0 --
-Lunarian Woman
+NAME OVERRIDE: Lunarian woman
 My, is this your first time here?
 Fresh explorers, perhaps?
-This is [BAR NAME], a bar that mediates requests for explorers.
+This is the Witch's Twilight Tavern, a bar that mediates requests for explorers.
 I'm [b]Melina[/b], the owner.
 It's a pleasure, rookies.
 I can only show the requests to guilds that have passed the Council's test though.
@@ -27,13 +27,13 @@ If you want to make it big, it might be best to keep up with requests as you exp
 -- ID 6 --
 You can take job requests called [b]quests[/b] at the bar.
 Quests allow you collect rewards by completing various tasks.
-When taking a quest, select [b]Take Quest[/b] on the memu to see more details.[End]
+When taking a quest, select [b]Take Quest[/b] on the menu to see more details.[End]
 
 -- ID 10 --
-Lunarian Woman
+NAME OVERRIDE: Lunarian woman
 My, is this your first time here?
 Fresh explorers, perhaps?
-This is [BAR NAME], a bar that mediates requests for explorers.
+This is the Witch's Twilight Tavern, a bar that mediates requests for explorers.
 I'm [b]Melina[/b], the owner.
 It's a pleasure, rookies.
 I can only show the requests to guilds that have passed the Council's test though.
@@ -47,14 +47,14 @@ Trying checking back when you're finished.
 [End]
 
 -- ID 52 --
-Lunarian Woman
+NAME OVERRIDE: Lunarian woman
 My, is this your first time here?
 Fresh explorers, perhaps?
-This is [BAR NAME], a bar that mediates requests for explorers.
+This is the Witch's Twilight Tavern, a bar that mediates requests for explorers.
 I'm [b]Melina[/b], the owner.
 It's a pleasure, rookies.
 Oh, you've already finished the council's mission. Lovely.
-We're only allowed to give negotiate requests for explorers who have the council's permission to enter the Labyrinth.
+We're only allowed to give negotiate requests for explorers who have the Council's permission to enter the Labyrinth.
 Since you've already got it, you can start looking at requests right away.
 So I should probably explain how it works.
 We take all sorts of requests here. For example, requests for Labyrinth materials or monster extermination or the like.
@@ -68,10 +68,9 @@ If you want to make it big, it might be best to keep up with requests as you exp
 -- ID 100 --
 So you're back from the Labyrinth then.
 How did you find it?
-While at first glance it may seem peaceful, or even sacred, in truth it's always got its jaws wrapped around your throat, ready to snap.
+While at first glance it may seem peaceful, or even sacred, in truth, it's always got its jaws wrapped around your throat, ready to snap.
 That's just the sort of place it is.
-It hasn't been all that long since the council lifted the ban on entry,
-but plenty of explorers have already gone missing.
+It hasn't been all that long since the council lifted the ban on entry, but plenty of explorers have already gone missing.
 You watch your back out there too.
 [End]
 
