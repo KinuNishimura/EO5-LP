@@ -56,29 +56,23 @@ use the [b]Y button[/b] to efficently [b]sell in bulk[/b].
 [End]
 
 -- ID 32 --
-[Color:0x0003]そして[Color:0x0005]L・Rボタン[Color:0x0003]を使うか、下画面の
-[Color:0x0005]イラストをスライド[Color:0x0003]することで選択中の
-キャラを切り替えることができます。
-[Color:0x0003]装備品の変更などをする時に
-利用するとよいでしょう。
+By using the [b]L and R buttons[/b], you can [b]scroll through the portraits[/b] on the bottom screen and select a character.
+Use this when comparing equipment and such.
 [End]
 
 -- ID 33 --
-[Color:0x0003]以上のような機能を用いて商店を
-利用すれば、有利に冒険を進められるので、
-ぜひご活用ください。
+By taking advantage of functions like these, your exploration will go more smoothly,
+so please make good use of them.
 [End]
 
 -- ID 50 --
-[F859] [F81B]V_CHAR_104/EVENT/GENERAL/001  君たちはこれから樹海へと向かうのかい?
-それならぜひ、
-おいらの店で冒険の備えをしていってよ!
+Are you heading to the Labyrinth after this?
+Then make sure to stock up at my shop!
 [End]
 
 -- ID 100 --
-[F859] [F81B]V_CHAR_104/EVENT/GENERAL/004  早速樹海に行ってきたのかい?
-何か面白い物を手に入れたら
-おいらに売っておくれよ?
+That was quick. You're already back from the Labyrinth?
+If you found anything interesting, mind selling 'em to me?
 [End]
 
 -- ID 101 --
@@ -486,35 +480,28 @@ use the [b]Y button[/b] to efficently [b]sell in bulk[/b].
 [End]
 
 -- ID 4100 --
-[F859] なあなあ、リリがいなくなったって
-本当かい!?
-あの子、前に素材集めを頼んだ時
-ニコニコして手伝ってくれたんだ。
-…無事だと信じてるよ。
+Hey, is it true that Lily's gone missing?!
+When I asked her to help me gather some materials, she did the whole job with a smile.
+...I wanna believe that she's gonna be okay.
 [End]
 
 -- ID 4101 --
-[F859] [F81B]V_CHAR_104/EVENT/GENERAL/011  ん? 君たち、リリを探しに行くのかい?
-なんだ、だったら心配する必要なかったね!
-さあさあ、リリを手助けするために
-必要なものを買っていっておくれよ!
+Hm? You lot are going to look for her?
+Then what am I worrying about?
+C'mon, buy whatever you need to save her!
 [End]
 
 -- ID 4102 --
-[F859] [F81B]V_CHAR_104/EVENT/GENERAL/003  リリのこと、心配だけど…、
-大丈夫さ。あの子だって今まで
-ちゃんと冒険者やってきたんだから。
-それにどっかの誰かさんが
-放っておかない気もするしね!
+I'm worried about Lily, but...
+She'll be fine. She got this far as an explorer, after all.
+Plus I get the feeling that a certain someone isn't gonna be leaving her alone!
 [End]
 
 -- ID 4103 --
-[F859] [F81B]V_CHAR_104/EVENT/GENERAL/011  リリ、帰ってきたね!
-[Guild Name]のみんな、お疲れ様!
-あの二人もおいらのいいお客だから
-帰ってきてくれて、本当にうれしいよ!
-[F81B]V_CHAR_104/EVENT/GENERAL/009  さあさあ、リリが帰ってきた記念に
-なにか買っていっておくれ!
+Lily came back!
+Good work, [Guild Name]!
+Those two have been good customers, so I really am glad they're glad!
+C'mon, why not buy something in honor of her getting home safe?
 [End]
 
 -- ID 4150 --
