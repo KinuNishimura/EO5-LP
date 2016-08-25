@@ -1,0 +1,1058 @@
+﻿File: touti
+Given filesize: 0x7596 (actual size: 0x9A66)
+Number of entries: 115
+
+-- ID 0 --
+Earthrun Royalty 
+This is the Arcadian Council.
+It serves as a means for each of the continent's four races to send representatives to watch over Yggdrasil.
+You would be new adventurers, yes?
+I am [b]Remus[/b]. As Earthrun royalty, I do respect your courage, but I also hope you'll become a positive influence on the future of this city.
+Accept the mission whenever you're ready to begin activities as an adventurer.
+[End]
+
+-- ID 1 --
+The Council puts up job requests known as [b]Missions[/b].
+By accepting and completing these requests, you will receive various rewards.
+Please select [b]Accept Mission[/b] on the menu to check the details.
+[End]
+
+-- ID 10 --
+A [b]new mission[/b] has been posted.
+Please select [b]Accept Mission[/b] on the menu to check the details.
+[End]
+
+-- ID 11 --
+You're here to take the mission, correct? Then do so.
+Whatever else you plan to do in this city as an adventurer, you have to complete this mission first.
+[End]
+
+-- ID 12 --
+Oh yes, there's something I forgot to mention.
+Before you take on the first mission, you should visit the town [b]market[/b].
+You should be able to find everything you'll need there.
+[End]
+
+-- ID 50 --
+If it isn't the members of [Guild Name].
+I had a feeling you'd come.
+This time, the council wants you to clear the first stratum and secure a path to the second.
+When you're ready, accept the mission and begin your exploration.
+[End]
+
+-- ID 60 --
+Oh, hello [Guild Name].
+Has the labyrinth been treating you well?
+...What?
+You've discovered a terrible monster in the 2nd stratum?
+...I see. So you've enountered it as well.
+In truth, there are many adventurers on the second stratum recently, so we've received similar troubling reports.
+They speak of an unbelievably huge elephant that shakes the very earth when it appears.
+I had taken this to merely be exaggeration by cowardly adventurers, but if people like you can verify it then it must be true.
+In which case the Council cannot stand idly by.
+I'll put up a mission that I'd like you to take.
+[End]
+
+-- ID 70 --
+If it isn't everyone from [Guild Name].
+It's been a while since we last met.
+Even your equipment seems better than the last time I saw you.
+I must admit, I enjoy seeing you improve like this.
+So what brings you here today?
+[End]
+
+-- ID 71 --
+[b]How will you respond?[/b]
+Tell him what the two of them said on floor 10.
+Ask if there are any missions.
+[End]
+
+-- ID 72 --
+...I see, so that's what's going on.
+It seems like it was just the other day that you were novice adventurers.
+So it's already time to talk about this...
+[End]
+
+-- ID 73 --
+But before that, if you were on floor 10, then you must have found a way around the mammoth, correct?
+I'd like you to report that matter first.
+We can continue this discussion after that.
+[End]
+
+-- ID 74 --
+I believe this is a cause for celebration, for both you and the Council.
+Allow me to explain.
+Here in Aeolis, we manage all adventurers, and those with sufficient strength are called [b]Master[/b] class.
+Those who receive this title are recognized by the Council as top-class and are provided instruction in new, Master level skills.
+We currently use missions to the 10th floor as a means of determining who is worthy of this title.
+This is a test to ensure that only those adventurers deemed capable will be able to proceed any further.
+[End]
+
+-- ID 75 --
+...However, it seems it's still too early for you to take the test.
+But don't be disheartened.
+It should only be a short while until you're ready to take the test.
+Get a bit more experience in the labyrinth.
+I'd like you to come back when you feel your skills have improved.
+[End]
+
+-- ID 76 --
+...And it seems that you are, at the very least, strong enough to take the test.
+If your goal is to head deeper into the labyrinth, then by all means accept the mission and clear this test.
+[End]
+
+-- ID 77 --
+Hello, everyone from [Guild Name].
+Would you like to take the Master test?
+[End]
+
+-- ID 78 --
+...I'm sorry, but you're still not ready to take the test.
+Get a bit more experience in the labyrinth.
+I'd like you to come back when you feel your skills have improved.
+[End]
+
+-- ID 79 --
+...Yes, this won't be a problem.
+It seems you are, at the very least, strong enough to take the test.
+You can take the mission whenever you like.
+[End]
+
+-- ID 80 --
+I have something to discuss with you, but...
+If you were on floor 10, then you must have found a way around the mammoth, correct?
+I'd like you to report that matter first.
+We can continue this discussion after that.
+[End]
+
+-- ID 90 --
+Hello, [Guild Name].
+If you're here, then you've heard about the new mission, correct?
+Thank you. Today's mission is for Masters, so the degree of diffculty is quite high.
+Frankly, I don't think any other guild would be up to the task.
+So please accept the mission.
+[End]
+
+-- ID 100 --
+...Oh, it's you all.
+I was right about to put up a mission, but I'd like you to take it.
+As for the mission itself... I believe you've met Soleil and Lily, the two-person party of Master adventurers, correct?
+This mission involves the two of them.
+The Earthrun Soleil originally made her name escorting merchant caravans, but one day she showed up in town with the Lunaria Lily.
+The two of them began working as adventurers, and quickly became known as a first rate guild.
+They've done various requests for the Council, and even done all sorts of work throughout town.
+However, we've just now heard that the Necromancer Lily has gone missing.
+While in most cases adventurers going missing in the labyrinth is merely an unfortunate fact of life,
+the disappearance of a Master level adventurer like her will surely have an effect on other adventurers, which could become a problem.
+Which is why the Council wishes to help them out, both of them.
+We're putting up a mission to save them.
+[End]
+
+-- ID 120 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  やあ、君たちか。今日はどうしたんだい?
+[End]
+
+-- ID 121 --
+[Color:0x0005]どうしますか?[Color:0x0000]
+四階層で出会った少女の事を話す
+水晶の竜について話す
+[End]
+
+-- ID 122 --
+[F859] ………。
+…第四階層で高価な水晶がとれるとわかり
+多くの冒険者や衛兵までが向かったとは
+聞いているが…。
+…少女が一人で歩いていたのは不可解だ。
+それに、その少女は樹海の奥に
+水晶竜という魔物がいると言ったんだね?
+[End]
+
+-- ID 123 --
+[F859] 第四階層の奥に水晶の竜?
+しかもそれを知っていたのが
+一人の少女だって?
+………。
+…第四階層で高価な水晶がとれるとわかり
+多くの冒険者や衛兵までが向かったとは
+聞いているが…。
+…少女が一人で歩いていたのは不可解だ。
+それに………。
+[End]
+
+-- ID 124 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/005  まだ誰も踏破していない樹海の奥について
+知識があるとは…、一体何者なんだろう?
+…考えていてもわかる事ではないね。
+[Guild Name]のみんな。
+私にできることはミッションを発動し
+君たちの後押しをするだけだ。
+その水晶の竜について
+ミッションを発動しよう。
+[End]
+
+-- ID 130 --
+[F859] ちょっと待ってくれないか?
+1つ言い忘れていたことがあってね。
+君たちには[Color:0x0005]これからの探索に
+必要となる物[Color:0x0000]を売ってもらえるよう
+大市の商人に話を通している。
+詳細は、[Color:0x0005]大市[Color:0x0000]に行って聞いてほしい。
+では、気をつけて。
+[End]
+
+-- ID 150 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  [Guild Name]のみんな!
+君たちが世界樹を踏破したと聞いたよ!
+[F81B]V_CHAR_105/SYSTEM/MENU/dic_ok   伝説に挑み、達成するのは
+君たちしかいないと思っていたよ。
+とにかく、よくやってくれた。
+世界樹の頂きに何があったのか…
+それを知りたい気持ちもあるが、まずは
+君たちの働きを褒めておこう。
+世界樹を見守るために発足した
+この評議会にとって、伝説を成し遂げた
+君たちは語り継ぐべき偉人となった!
+アースランの王族を代表し…
+とりあえずこれを授けておくよ。
+[End]
+
+-- ID 151 --
+[F859] [F81B]V_CHAR_105/SYSTEM/EXIT_NORMAL/001   頂きに到達したとはいえ、まだまだ
+世界樹には謎が多い。もしよければ
+引き続き探索を続けて欲しい。
+[End]
+
+-- ID 500 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/002  …どうかしたのかい?
+気遅れするかもしれないけれど
+冒険者となるための試練なんだ。
+決意してミッションを受けてくれたまえ。
+[End]
+
+-- ID 501 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/009  では頑張ってきておくれ。
+[End]
+
+-- ID 510 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  樹海の中には
+[Item:0x06F0]と呼ばれる魚が
+生息していると聞く。
+探索に慣れた冒険者は、それを釣り
+食料として有効活用するそうだ。
+君たちもよかったら試してみるといい。
+[End]
+
+-- ID 511 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  世界樹の迷宮の探索は順調かい?
+2階なら衛兵が巡回していたり、街の者が
+出かけている事もある場所だ。
+出会ったら色々と話してみるといい。
+みんな、きっと手助けしてくれるだろう。
+[End]
+
+-- ID 512 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  君たちは、その昔、世界樹が
+戦火に包まれたことは知っているかい?
+[End]
+
+-- ID 513 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+知っている
+知らない
+[End]
+
+-- ID 514 --
+[F859] なら話は早いね。その悲劇を繰り返さない為
+ルナリアの人形遣いと言われる魔法使い達が
+樹海の各地にゴーレムを配属させたんだ。
+時は流れ、人形遣いは滅んだ。そして
+彼らが生み出したゴーレムは、今は
+樹海に挑む冒険者へ課す試練となっている。
+それにより、知恵や力の足りない者が
+樹海の奥へ迷い込み、不幸な結果を
+うまないようにしているんだ。
+[End]
+
+-- ID 515 --
+[F859] そうか。まあ古い伝説のような話だ。
+知らなくても普通かもしれないね。
+少し長い話だけど、興味があるなら
+話してあげてもいいのだが…。
+[End]
+
+-- ID 516 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+聞かせて欲しい
+今はいい
+[End]
+
+-- ID 517 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/006  いいだろう。これは王族に伝わっている
+古い古い歴史とも神話ともいわれる話だ。
+かつて、世界樹の伝説の力を求めた
+暴王と呼ばれし者が、軍勢を率いて
+この地に侵略したんだ。
+軍の力を使って、世界樹の伝説を
+独り占めしようと考えてね。
+そのやり方が、あまりに酷かった。
+近隣の森を焼き、村を襲い、自国の兵を
+駐屯させて、他の国や種族の冒険者を
+全て近づけぬように試みたのだ。
+他の国や種族の長たちは、暴王のやり方に
+反抗し、その軍を排除しようとし
+それぞれもまた軍勢を繰り出した。
+これが、伝説の大戦と呼ばれた戦いだ。
+…長きにわたって戦乱は続き
+さすがの暴王の軍勢も、諸国連合の前には
+屈服し、本国へ撤退したという。
+ルナリア族の人形遣いの手で
+世界樹の麓にゴーレムが
+安置されたのはそれからだと聞く。
+暴王のような危険な者が再び現れた時
+樹海を守るための護衛としたんだろう。
+狙い通りに、以後、樹海は人が
+立ち入ることのできない禁足の地として
+長い間護られてきた。
+しかし、長い年月の間に人形遣いたちは
+滅び、護衛のゴーレムたちの力も
+弱まってしまった…。
+最近になって4種族の長たちが話し合い
+結界の弱まった今こそ、再び世界樹に
+挑むべきだとなったのだが…
+軍の力は使わず、あくまで冒険者たち
+個人の力量によるものだと決められている。
+だから君たちも頑張ってもらいたい。
+[End]
+
+-- ID 518 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/007  …そうか。
+では、興味を持った際に話しかけておくれ。
+[End]
+
+-- ID 519 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  やぁ、君たちか。
+以前に話した古い伝説を聞きたいのかい?
+[End]
+
+-- ID 520 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+聞かせて欲しい
+別にいい
+[End]
+
+-- ID 521 --
+[F859] そうか、なら樹海について
+一つ伝えておこう。
+樹海を探索していれば、他にも冒険している
+冒険者に出会うこともあるだろう。
+そんな時、彼らのアドバイスには
+従うといい。樹海を旅する者同士、為になる
+言葉をくれるだろうからね。
+[End]
+
+-- ID 522 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  やぁ、君たちか。
+以前に話した古い伝説を聞きたいのかい?
+[End]
+
+-- ID 523 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+聞かせて欲しい
+別にいい
+[End]
+
+-- ID 524 --
+[F859] そうか、なら樹海について
+一つ伝えておこう。
+このフロアには、ルナリア族の人形遣いが
+残したゴーレムが眠っている。
+君たちが先へと進むためには乗り越えないと
+いけない障害となるだろう。
+[F81B]V_CHAR_105/EVENT/GENERAL/003  だが、君たちなら倒せるはずだ。
+焦らず、挫けず、努力を続けて欲しい。
+[End]
+
+-- ID 525 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  見事ミッションをクリアしてくれたね!
+第一階層を抜けたら、新しい階層が
+待っているよ。
+引き続き油断せず、挑んで欲しい。
+[End]
+
+-- ID 526 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  樹海の第二階層に到達したんだね。
+ということは、あれは見たかな?
+樹海と街をつなぐ不思議な光の柱。
+[Color:0x0005]樹海磁軸[Color:0x0000]を。
+あれを使えば、樹海から街へ戻ることが
+できるという。冒険に向かった際
+糸を忘れた時に活用するといい。
+[End]
+
+-- ID 527 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  第二階層の探索は順調かい?
+世界樹は登れば登るほど危険が
+増すそうだから、あまり無理をせず
+危険を感じたら、戻ってきた方がいい。
+君たちは評議会の期待する新鋭の
+ギルドなのだから、探索は十分に
+注意しておくれ。
+[End]
+
+-- ID 528 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/007  うーん…。
+ああ、君たちか。
+すまない、少し考え事をね。
+これがなかなかに難儀な問題で
+答えを出すのに苦労しているのさ。
+[F81B]V_CHAR_105/EVENT/GENERAL/003  新しく堅く黒いパンの作り方を学ぶべきか
+それともいっそのことチーズを作って
+みようか…。うーん…。
+[End]
+
+-- ID 529 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/007  ふう…。
+おっと、君たちか。
+恥ずかしい姿を見せてしまい
+申し訳ないことをした。
+何、評議会での仕事が少しばかり
+忙しくてね。…4つの種族が同じ街で
+暮らしていると揉め事も起こるんだ。
+そんな時、こうして君たちが来て
+話ができると、気分転換になって
+助かっているよ。
+[End]
+
+-- ID 530 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  達人試験であるミッションは
+クリアできそうかい?
+魔獣[Enemy:0x0099]はこれまで多くの
+冒険者を犠牲にしてきた恐るべき
+相手なんだ。
+その目で睨まれた者は
+恐怖のあまり[Color:0x0005]混乱[Color:0x0000]してしまうとも
+いわれている。
+君たちには無事に帰ってきて欲しいと
+思っている。だから…、十分に
+対策を考えて挑んで欲しい。
+[End]
+
+-- ID 531 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  かつて、暴王と呼ばれる王とその軍勢が
+世界樹へ進軍したことがある。
+古い古い時代の事だが、その王の軍勢と
+その王を止めようとした軍勢が
+世界樹の麓でぶつかったという。
+敵も味方も多くの者が倒れたその地は
+長い年月により地形を変化させながら
+死霊の集う森へと姿を変えていった…。
+晦冥の墓所と呼ばれる第三階層。
+そこはアンデッドたちがさ迷う
+怪しくも恐ろしい樹海。
+達人となった君たちでも危険な場所だ。
+いつも言っている言葉だが…
+十分に注意して進んで欲しい。
+[End]
+
+-- ID 532 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  アイオリスの街は、かつての大戦で
+砦があった丘を中心に建設された。
+当時のアースラン族の王は、この街を
+荒れ果てた樹海の復興の中心地として
+考えていたのだろう。
+…狙い通り、長い年月と共に樹海は蘇った。
+そうなったとき、王は次の目的を持ったんだ。
+暴王のような危険な者が再び現れる前に
+世界樹の伝説を解き明かしたい。それが
+この評議会に課せられた任務なんだ。
+[End]
+
+-- ID 533 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  第三階層には恐ろしいアンデッドたちが
+徘徊していると聞いている。
+君たちは…、その…いわゆる霊というものが
+怖かったりしないのかい?
+[End]
+
+-- ID 534 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+怖い
+怖くない
+[End]
+
+-- ID 535 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  うむ! 私もアンデッドとか言われても
+ちょっと困るというか…、理不尽だと
+常々思っている。
+[F81B]V_CHAR_105/EVENT/GENERAL/007  出てくるなら出てくるでもう少し
+脅かさないように出るとか…
+気を使って欲しいものだ。
+[End]
+
+-- ID 536 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/005  …そ、そうか。さすがは冒険者だね!
+え!? 私はどうかって?
+[F81B]V_CHAR_105/EVENT/GENERAL/007  …詳しくは話したくないが、みんなから
+三階層の話を聞いている時だけは
+冒険者でなくてよかったと感じているよ。
+[End]
+
+-- ID 537 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  ミッションでお願いした通り、君たちは
+ソロルを手伝い、リリを見つけて欲しい。
+彼女たちはこれまで、アイオリスのために
+いろいろな手助けをしてくれてきたのだ。
+今度は私たちが助ける番だと思っている。
+君たちが協力してくれるから、二人は
+無事戻ると信じているよ。
+[End]
+
+-- ID 538 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/007  ソロルとリリには無事でいてもらいたい…。
+[F81B]V_CHAR_105/EVENT/GENERAL/003  だが、彼女たちを助けようとした結果
+君たちが傷つき、倒れてしまっては
+元も子もない。
+[End]
+
+-- ID 539 --
+[F859] だから、十分に注意して探索するのだよ。
+[End]
+
+-- ID 540 --
+[F859] [Character?:0x0000]の顔色が少し悪く見える。
+休息をしっかりとってから
+探索をするのだよ。
+[End]
+
+-- ID 541 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  ソロルとリリを助けてくれてありがとう。
+[F81B]V_CHAR_105/EVENT/GENERAL/003  その疲れを癒した後、君たちには
+次の階層へ至る道を探してもらいたい。
+次々とお願いして申し訳ないが…
+君たちに頼るしかないのだ。
+よろしく頼むよ。
+[End]
+
+-- ID 542 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  君たちのお陰で、評議会としても初めて
+第四階層の存在を確認できた。
+高価な鉱石が眠る水晶の洞窟と聞いて
+冒険者だけなく、街の住人までもが
+浮かれて樹海へ向かったと聞いている。
+[F81B]V_CHAR_105/EVENT/GENERAL/007  まったく…、困った事態だが、樹海探索を
+目的としている評議会としては樹海へ
+向かうことを禁じることもできない。
+[Guild Name]、君たちが探索中に
+もし力のない者たちを見かけたら
+さりげなくサポートしてあげてくれないか?
+[End]
+
+-- ID 543 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/003  私には幼い頃に亡くした双子の…
+妹がいたのだ。はっきりとは覚えていないが
+とても悲しかったことだけは記憶している。
+アースランの王族としての責務を
+担うことになった今も、これが
+正しい道なのかと悩むこともある。
+だが人はきっと、自分の選んだ道を
+悩みながら歩くものなのだろう。
+世界樹を目指す君たち一人一人にも
+きっと色々な過去があり、理由があって
+その頂きを目指しているのだろう。
+[Guild Name]が頂きを目指す訳、
+時間があるときに一度、ゆっくりと
+聞かせてもらいたいものだ。
+[End]
+
+-- ID 544 --
+[F859] 評議会の長として、樹海の探索を
+勧めてきたのだが、世界樹の踏破は
+長い年月がかかるだろうと思っていた。
+私たちではなく、子、孫の代になって
+ようやくかなう遠い目的だと感じていた。
+[F81B]V_CHAR_105/EVENT/GENERAL/003  …だが、[Guild Name]。
+君たちに出会ってから、その目的が
+身近なものだと認識できるようになった。
+君たちならきっと世界樹の頂きへと
+たどり着く…、私はそう確信しているよ。
+[End]
+
+-- ID 545 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/002  第四階層で一人の少女と出会ったと
+いっていたが…、まだ見つからないのかい?
+危険な樹海の奥深くに一人でいることといい
+その奥に水晶の竜がいると告げたことといい
+その少女はただ者ではない気がするのだ。
+次に君たちと少女が会えた時…
+世界樹の迷宮の謎がとける、なぜか
+そんな気がしているよ。
+[End]
+
+-- ID 546 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  世界樹の頂きにたどり着いたものは
+それぞれの種族に伝わる伝説が叶うという。
+この世を支配する権力に、この世界の謎
+最強の武に、莫大な金銀財宝…。
+あらゆる欲望が満たされるといえるだろう。
+世界樹を踏破したとき、君たちは
+何を望むのだろうね。
+[End]
+
+-- ID 547 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  世界樹の上に、さらに樹海が
+存在しているのかい?
+第五階層はそんな不思議で、神秘的な
+場所なのか。私も見てみたいものだが…。
+[F81B]V_CHAR_105/EVENT/GENERAL/005  …それは、命を賭けて危険と向かいあう
+冒険者だから見れるものなんだろうね。
+[End]
+
+-- ID 548 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  君たちが第五階層に到達した事実を
+4種族の長に伝えたんだ。
+都の王はもちろん、ルナリア族に
+セリアン族、ブラニー族の長たちみなが
+驚き、そして期待の声をあげていたよ。
+もし世界樹を無事踏破したら
+君たちの名はそれぞれの種族の間で
+長く語り継がれるだろうね。
+[End]
+
+-- ID 549 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  先日、山都からセリアン族の有力な武将が
+アイオリスまで尋ねてきたよ。
+[Guild Name]の事を聞いて、さらに
+その腕前にかなり興味を抱いたそうだ。
+山都のセリアン族といえば、尚武の民。
+君たちが強いと知って、対抗心を
+抱いてしまったようでね。
+[F81B]V_CHAR_105/EVENT/GENERAL/008  今から自分も世界樹に上る! と騒ぐのを
+部下たちが宥めて帰っていったよ。
+[End]
+
+-- ID 550 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  ブラニー族は商売を得手としているとは
+知っていたが…。改めて実感したよ。
+どういうことかって?
+君たちが第五階層に到達した事を
+ブラニー族にも伝えた所、ブラニーの商人が
+アイオリスに集まってきたんだ。
+そして、世界樹の踏破が近いことを
+利用して、様々なアイテムを売り始めたと
+聞いている。
+世界樹まんじゅうや世界樹踏破記念コイン。
+世界樹踏破ツアーなんかもあるという。
+[F81B]V_CHAR_105/EVENT/GENERAL/008  市民に危険が及ばないのであれば
+評議会としては問題ないのだが…
+彼らの熱心さには頭が下がるね。
+[End]
+
+-- ID 551 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  いよいよ、そこまでたどり着いたのか。
+世界樹の伝説、その頂きを
+[Guild Name]が解明する日が来るんだね!
+私はいつも通りここで君たちを待っている。
+頂きまでたどりついたなら、詳細を
+教えてもらえる日を楽しみにしておくよ。
+[F81B]V_CHAR_105/EVENT/GENERAL/009  だから…、頑張ってきておくれ。
+[End]
+
+-- ID 552 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/008  …本当に世界樹の頂きに到達したんだね!
+よくやってくれた。
+君たち[Guild Name]こそ、この街の…
+いや、アルカディアの英雄だ!
+[End]
+
+-- ID 553 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  世界樹の頂きを超え…、
+なお冒険が続くとは、正直驚いているよ。
+だが、君たちは冒険者だ。
+未知なる場所があるのなら、
+そこを踏破するのが正しい姿なのだろう。
+だが忘れないでおくれ。君たちの帰りを
+待っている者もいるということを、ね。
+[End]
+
+-- ID 554 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  最近、アイオリスの人口が増えているんだ。
+どうしてかって?
+それは、君たちのおかげさ。
+世界樹が踏破されたという噂は
+大陸中に広がり、君たちに憧れて
+新たな若者たちが集まりだしたんだ。
+装備を整え、地図の描き方を覚え
+1階へと向かう彼らを見ていると
+昔の君たちを思い出すよ。
+そんな若者たちが危険を乗り越え
+成長できるように…、評議会は
+これからも冒険者をサポートしていくよ。
+[End]
+
+-- ID 555 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  君たちか…。時間があるのなら
+ここで紅茶でも飲んでいかないか?
+…フフ、不思議なものだね。
+あの[Guild Name]の君たちも、こうして
+座っていると普通の若者に見える。
+世界樹の頂きに到達し、伝説を成し遂げた
+達人には見えないのだが…。
+…それが君たちの凄さなんだろう。
+第六階層で目的を成し遂げても
+それは変わらないのだろうね。
+[End]
+
+-- ID 556 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  久しぶりだね、[Guild Name]!
+最近、君たちの姿が見えなくて…
+胸騒ぎがしていたのだ。
+あまり私に心配させないで欲しい。
+樹海の探索も大事だが、きちんと街に戻り
+体調を整え、準備を万端にしてから
+迷宮に挑むこと!
+おせっかいだとはわかっているが…
+それだけは言わせてもらうよ。
+[End]
+
+-- ID 557 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  君たちか。
+未知なる場所へ挑むのが冒険者なら
+未知なる場所が無くなったこの地から
+君たちは立ち去るのだろうか?
+できれば…、世界樹の迷宮の全てを
+解明するまで評議会に力を貸して欲しい。
+ここまでやり遂げてきた君たちにこそ
+世界樹の全てを解明してもらいたいのだ。
+それを成し遂げるのは君たちこそ
+相応しいのだから!
+[End]
+
+-- ID 650 --
+[F859] …っ!
+[F81B]V_CHAR_105/EVENT/GENERAL/001  あぁ、君たちだったのか。
+何をしているのかって?
+実は、宿屋の姉妹からパン作りの方法を
+教わってね。私もその材料から新しいパンを
+作ろうと調理をしていたのだ。
+何度か試行錯誤して、やっと完成したのが
+これ、[Color:0x0005][Item:0x0700][Color:0x0000]なんだ。
+焼きたてパンの上に目玉焼きを乗せることで
+手を汚さずに食べられるし、携帯食としても
+いいと思う。
+[F81B]V_CHAR_105/EVENT/GENERAL/010  味見もしたがそんなに酷い味という訳でも
+ないから…、君たちさえよければ
+食べてみてくれないか?
+[End]
+
+-- ID 651 --
+[Color:0x0005]どうしますか?[Color:0x0000]
+豪快にかぶりつく
+遠慮する
+[End]
+
+-- ID 652 --
+[F859] ふふっ、おいしそうに食べてくれるね。
+作ったかいがあったというものだ!
+それは樹海でとれた小麦と、新鮮な卵を
+使って作ったものだ。作り方も簡単だから
+君たちに伝えておこう。
+そうすれば、樹海を探索中にでも
+作って食べることができるだろう。
+[End]
+
+-- ID 653 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/005  …そうか。
+これはね、樹海でとれた小麦と
+新鮮な卵から作ったものなんだ。
+君たちに作り方だけでも教えておこう。
+そうすれば、樹海を探索中にでも
+作って食べることができるだろう。
+[End]
+
+-- ID 660 --
+[F859] [F81B]V_CHAR_103/EVENT/GENERAL/001  レムス様、このようにするのです。
+[End]
+
+-- ID 661 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  ほう、そうしてすり鉢を使って魚を
+すり身にしていくとは…。それから?
+[End]
+
+-- ID 662 --
+[F859] [F81B]V_CHAR_103/EVENT/GENERAL/004  続いてこの魚の身を丸めて……、うん?
+[End]
+
+-- ID 663 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  …やあ、君たちか。
+実はね、今、セリアン族に伝わるという
+魚料理のレシピをギルド長から
+教わっていた所なんだ。
+[End]
+
+-- ID 664 --
+[F859] 作り方はこんな所です。
+では、私はそろそろ冒険者ギルドに戻ります。
+[F81B]V_CHAR_103/EVENT/GENERAL/005  お前たち、レムス様にくれぐれも
+粗相のないようにな。
+[End]
+
+-- ID 665 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/010  ところで[Guild Name]。
+よかったら今できたばかりのこの
+[Color:0x0005][Item:0x06F8][Color:0x0000]、一緒に食べないかい?
+[End]
+
+-- ID 666 --
+[Color:0x0005]どうしますか?[Color:0x0000]
+一緒にたべる
+断る
+[End]
+
+-- ID 667 --
+[F859] よし、では私が取り分けよう。
+これはセリアン族の首都である
+山都に伝わる伝統料理らしいのだ。
+三階層でとれる身が少ない[Color:0x0005][Item:0x072C][Color:0x0000]も
+潰して団子状にすることでおいしく
+食べることができるらしい。
+はい、どうぞ。
+熱いから、気をつけて食べるんだよ。
+………。
+……。
+…。
+[F81B]V_CHAR_105/EVENT/GENERAL/011  フフ、その食べっぷりを見るに
+味は大丈夫のようだね。
+[End]
+
+-- ID 668 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/007  それは残念…。
+[F81B]V_CHAR_105/EVENT/GENERAL/006  おいしくできていると思うが…
+無理強いはできないからな。
+[End]
+
+-- ID 669 --
+[F859] この[Item:0x06F8]は樹海でとれる
+2種類の魚をすり身にして団子状に丸め、
+それを汁に入れたものだ。
+山都から取り寄せしたこの土鍋を使えば
+樹海で作ることも難しくないだろう。
+私が予備にするつもりで買ったのだが…
+よかったら使っておくれ。
+[End]
+
+-- ID 670 --
+[F859] 新鮮な[Item:0x0708]をベースにしたスープに
+この[Color:0x0005][Item:0x06F5][Color:0x0000]を入れて………。
+ん?
+[F81B]V_CHAR_105/EVENT/GENERAL/001  やあ、君たちか。
+なら隠さなくてもいいだろう。
+少し…、料理を行っていたのだ。
+第三階層で変わった穀物がとれると
+聞いてね。実際にその[Item:0x06F5]を
+購入して調べてみたんだ。
+確かに怪しい食材で、その昔は魔法や
+錬金術に利用されたり、悪魔の食べ物だと
+言われて敬遠されたらしいのだが…
+異国へ旅することが多いブラニー族の
+旅人から、この食材のおいしい調理法を
+教わったんだ!
+皮をとり、芽を排除して適度な大きさに
+切ったら、調味料と新鮮な[Item:0x0708]を加えれば
+こんな見事なシチューの完成になる。
+ブラニー族はこれを、[Color:0x0005][Item:0x06F7][Color:0x0000]と
+名付けて[Item:0x06F5]を手に入れるたび
+作って食べているという。
+[F81B]V_CHAR_105/EVENT/GENERAL/010  教えてもらったレシピ通りに調理し
+今まさにできあがった所なのだが…
+よかったら味見をしてくれないか?
+[End]
+
+-- ID 671 --
+[Color:0x0005]どうしますか?[Color:0x0000]
+いただきます、と手を伸ばす
+遠慮する
+[End]
+
+-- ID 672 --
+[F859] ありがとう。
+普段は人に料理を振る舞う事もないから
+こうして食べてもらえると嬉しいものだ。
+………。
+…そ、それでどうだい?
+その、味のほうは?
+[End]
+
+-- ID 673 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+おいしいと答える
+何も言わない
+[End]
+
+-- ID 674 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/004  そうか!!
+それは作った甲斐があったというものだ!
+[End]
+
+-- ID 675 --
+[F859] ………。
+[F81B]V_CHAR_105/EVENT/GENERAL/007  …そ、そうか。いまいち、だったようだね。
+すまなかった…。
+[End]
+
+-- ID 676 --
+[F859] この[Item:0x06F7]は
+新鮮な[Item:0x0708]、それに皮をむいた
+[Item:0x06F5]を加えて作ったものだ。
+小さな鍋が一つあれば野外でも
+簡単に作れるはずだ。君たちも
+覚えて冒険中に作ってみるといい。
+[End]
+
+-- ID 677 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/005  そうか、残念だ。
+…この[Item:0x06F7]は
+新鮮な[Item:0x0708]、それに皮をむいた
+[Item:0x06F5]を加えて作ったものだ。
+小さな鍋が一つあれば野外でも
+簡単に作れるはずだ。君たちも
+覚えて冒険中に作ってみるといい。
+[End]
+
+-- ID 680 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/001  君たちは、樹海で[Color:0x0005][Item:0x0702][Color:0x0000]や[Color:0x0005][Item:0x06FD][Color:0x0000]を
+手に入れたことはあるかい?
+実は衛兵が入手した果実を贈ってくれてね。
+今からおいしいものを作ろうと思うのだが…
+興味はあるかい?
+[End]
+
+-- ID 681 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+あると答える
+特にないと答える
+[End]
+
+-- ID 682 --
+[F859] そうか、それは喜ばしい。
+ではこれから作ろうと思うから
+少し待ってておくれ。
+………。
+…[Color:0x0005][Item:0x0702][Color:0x0000]を切って、そこに[Color:0x0005][Item:0x06FD][Color:0x0000]も
+添えて、上から[Color:0x0005][Item:0x072B][Color:0x0000]をかけて…。
+…これで完成だ。保存食としても有用だが
+何より特徴的なのはその甘さだ。
+死者が目を覚ますといわれるほどの甘味
+君たちも味わってみるといい。
+[End]
+
+-- ID 683 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/005  …そ、そうか。
+だがせっかくだから作り方だけでも
+教えておこう。
+…[Color:0x0005][Item:0x0702][Color:0x0000]を切って、そこに[Color:0x0005][Item:0x06FD][Color:0x0000]も
+添えて、上から[Color:0x0005][Item:0x072B][Color:0x0000]をかけて…。
+…これで完成だ。保存食としても有用だが
+何より特徴的なのはその甘さだ。
+死者が目を覚ますといわれるほどの甘味
+よかったらいつか味わっておくれ。
+[End]
+
+-- ID 684 --
+[F859] そうそう。作り方だけ教えても
+これがないと作れないからね。
+…特別にプレゼントしよう。
+[End]
+
+-- ID 685 --
+[F859] そこに軽くあぶった[Color:0x0005][Item:0x0702][Color:0x0000]と
+[Color:0x0005][Item:0x06FD][Color:0x0000]を詰めて、上からたっぷり
+[Color:0x0005][Item:0x072B][Color:0x0000]を入れて保存すればいい。
+冒険中でも簡単に作れるから
+よかったら試してみておくれ。
+[End]
+
+-- ID 690 --
+[F859] フフフッ、いい焼き色だ。姉上に見せたら
+驚くだろうな。
+[F81B]V_CHAR_105/EVENT/GENERAL/001  …おや、[Guild Name]のみんな
+いいところに来たね。
+今日衛兵が樹海でとれたベリーを
+届けてくれたので、それを使って
+[Item:0x072D]を焼いてみたんだ。
+昔、王都にいるころに出会ったルナリアの
+料理人に教わったデザートなんだ。
+姉上と一緒に習ったけれど、最近は
+まったく作っていなくてね。久しぶりに
+焼いたのだが、うまくできたと思うんだ!
+[End]
+
+-- ID 691 --
+[Color:0x0005]何と答えますか?[Color:0x0000]
+食べてみたい、という
+甘いモノは苦手です、という
+[End]
+
+-- ID 692 --
+[F859] そうか!
+[F81B]V_CHAR_105/EVENT/GENERAL/010  じゃあ、焼きたてのものを食べておくれ。
+後で感想を聞かせてくれると嬉しいな。
+[End]
+
+-- ID 693 --
+[F859] [F81B]V_CHAR_105/EVENT/GENERAL/005  そ、そうなのか。
+人それぞれ好みがあるから
+仕方ないと思うが…。
+…けれどこれは本当においしいのだ。
+もし気が変わったら食べてみてほしい。
+[End]
+
+-- ID 694 --
+[F859] そうそう、この[Item:0x072D]は意外と
+簡単に作れるんだ。よかったら
+チャレンジしてみるといい。
+これをプレゼントするから、
+その気になったら試してみるといいよ。
+[End]
+
+-- ID 700 --
+[F859] 不思議なものだ、こうして皮のカバンに
+入れておくだけでできあがるなんて…。
+ブラニー族に古くから伝わると聞くが
+さすが旅を住処とする一族だ。
+………。
+[F81B]V_CHAR_105/EVENT/GENERAL/002  …おや、[Guild Name]じゃないか。
+今日はどうしたんだい?
+[End]
+
+-- ID 701 --
+[Color:0x0005]どうしますか?[Color:0x0000]
+何をしていたのか聞く
+ブラニー族がどうしたか聞く
+[End]
+
+-- ID 702 --
+[F859] ああ、君たちは知っているかい?
+ブラニー族に伝わる旅人の話を。
+ある旅商人のブラニーが皮袋に[Item:0x0708]を
+入れたまま砂漠を旅していた時の事らしい。
+数時間後にブラニーが喉の渇きをいやすため
+皮袋を開くと、液体のはずの[Item:0x0708]が
+どろどろした凝固状態になっていたという。
+驚きながら舐めてみると、それはとても
+おいしく以後ブラニー族の間では
+試行錯誤を繰り返してきたらしい。
+それが、この[Item:0x072F]だ。
+[Item:0x05A8]に[Item:0x0708]を入れておいて
+一定時間後にオリーブオイルと蜂蜜を
+混ぜて軽く温めるとおいしいと聞く。
+[F81B]V_CHAR_105/EVENT/GENERAL/010  いつも冒険に出かけて疲れているだろう
+君たちにこそ食べてもらいたいな。
+[End]
+
+-- ID 703 --
+[F859] あと、この皮袋を持っていれば
+探索中でも簡単に調理できるから
+よかったら試してみるといい。
+[End]
+

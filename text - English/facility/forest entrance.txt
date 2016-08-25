@@ -1,0 +1,46 @@
+﻿File: jukai
+Given filesize: 0xF3E (actual size: 0x2797E)
+Number of entries: 20
+
+-- ID 0 --
+At the heart of the great continent of Arcadia is the city of [b]Aeolis[/b], located at the foot of [b]Yggdrasil[/b].
+[End]
+
+-- ID 1 --
+Yggdrasil is a gigantic tree reaching up into the heavens that has been an object of worship since ancient times.
+[End]
+
+-- ID 2 --
+For this reason, no one approaches the tree; in fact, it has been forbidden by order of the council that governs Aeolis.
+...However, at some point, they released a proclamation:
+"To all adventurers on the continent of Arcadia: come to Aeolis and challenge Yggdrasil."
+From the Earthrun race, who live all over Arcadia, came fencers, dragoons, cesti, and those known as reapers...
+From the magic tower to the north, where the Lunaria carry out magical research, came warlocks and necromancers...
+From the mountain-dwelling Therians came those who carry the blood of might warriors...
+From the plains-dwelling Brownies came those called herbalists and shamans...
+Seeking adventure, they all gathered in this town, their chests swelled with pride.
+...
+You, too, are an adventurer who set out for Aeolis, your heart gripped by the exciting proclamation.
+You have but one goal: to challenge the labyrinth of Yggdrasil, and explore its unknown forests.
+If you've made up your mind, then let the adventure begin!
+[End]
+
+-- ID 1100 --
+On your way to the Labyrinth, you recall something you need to do first.
+You should first check if Lily is somewhere in town.
+[End]
+
+-- ID 1101 --
+On your way to the Labyrinth, you recall something you need to do first.
+You should go to the Council to accept a mission before heading out.
+[End]
+
+-- ID 1110 --
+On your way to the Labyrinth, you recall something you need to do first.
+You should go talk to the council about this "Crystal Dragon" the mysterious girl mentioned.
+[End]
+
+-- ID 1111 --
+On your way to the Labyrinth, you recall something you need to do first.
+You should go to the Council to accept a mission before heading out.
+[End]
