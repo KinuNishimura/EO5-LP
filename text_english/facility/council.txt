@@ -247,7 +247,7 @@ I'm sure they'd be willing to help you out too.
 [End]
 
 -- ID 512 --
-Were you aware that, long ago, even Yggdrasil was wrapped up in the flame of war?
+Were you aware that, long ago, even Yggdrasil was wrapped up in the flames of war?
 [End]
 
 -- ID 513 --
@@ -333,7 +333,7 @@ Would you like to hear about that old legend we were discussing?
 
 -- ID 524 --
 I see. Then I'll give you a Labyrinth tip instead.
-On this floor there sleeps a golem left behind by a Lunarian Puppeteer.
+On this floor there sleeps a golem left behind by the Lunarian Puppeteers.
 No doubt you'll have to overcome it if you want to progress.
 But I'm sure you're up to the task.
 Don't be impatient, and don't despair. Just keep trying.
