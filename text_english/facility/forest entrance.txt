@@ -11,7 +11,7 @@ Yggdrasil is a gigantic tree reaching up into the heavens that has been an objec
 [End]
 
 -- ID 2 --
-For this reason, no one approaches the tree; in fact, it has been forbidden by order of the council that governs Aeolis.
+For this reason, no one approaches the tree; in fact, it had been forbidden by order of the council that governs Aeolis.
 ...However, at some point, they released a proclamation:
 "To all adventurers on the continent of Arcadia: come to Aeolis and challenge Yggdrasil."
 From the Earthrun race, who live all over Arcadia, came fencers, dragoons, cesti, and those known as reapers...
