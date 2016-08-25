@@ -3,7 +3,7 @@ Given filesize: 0x5716 (actual size: 0x19DB6)
 Number of entries: 78
 
 -- ID 0 --
-Smiling Woman
+NAME OVERRIDE: Smiling woman
 Welcome home-- Wait, huh, a customer?!
 Ooh, I'm so sorry!
 My name's [b]Genetta[/b].
@@ -24,8 +24,8 @@ Your days of taking on Yggdrasil for real are just beginning, huh?
 I really really hope you'll continue staying here while you're at it. Please?
 By the way, I do have customers other than you.
 Have you run into any yet? No?
-Well, you just got here so that's no surprise.
-Plus, they're all explorers so you might even meet them in the Labyrinth more often than here.
+Well, you just got here, so that's no surprise.
+Plus, they're all explorers, so you might even meet them in the Labyrinth more often than here.
 Aw geez, this is just perfect!
 You get to make friendships with other explorers while you're here!
 I can't wait for the stories you'll have for me!
