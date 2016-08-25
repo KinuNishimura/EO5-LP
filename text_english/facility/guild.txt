@@ -3,85 +3,88 @@ Given filesize: 0x4C8E (actual size: 0x1496E)
 Number of entries: 58
 
 -- ID 0 --
-[F812]Armor-Wearing Man  [F81B]V_CHAR_103/EVENT/FIRST_APPEAR/001   All the lowlifes in town these days must've 
+NAME OVERRIDE: Armor-wearing man
+All the lowlifes in town these days must've 
 forgotten what it means to be an adventurer.
-[F81B]V_CHAR_103/EVENT/FIRST_APPEAR/002   There's nothin' but punks who shy away from danger,
-want stability in life, and are satisfied with just making enough to eat.
-[F81B]V_CHAR_103/EVENT/FIRST_APPEAR/003   ...You new around here?
-If you're ready to challenge the unknown in the World Tree,
-then you'd better make your own guild.
-[F81B]V_CHAR_103/EVENT/FIRST_APPEAR/004   And then you should gather allies who share your drive.
+There's nothin' but punks who shy away from danger, want stability in life, and are satisfied with just making enough to eat.
+...You new around here?
+If you're ready to challenge Yggdrasil, then you'd better make your own guild.
+And then you should gather allies who share your drive.
 ...If that's what you're here for, then let me welcome you.
-[F81B]V_CHAR_103/EVENT/FIRST_APPEAR/005   Whoops, forgot to introduce myself.
-My name is [Color:0x0005]Edgar[Color:0x0000]. I'm the head of the Adventurer's Guild here.
+Whoops, forgot to introduce myself.
+My name is [b]Edgar[/b]. 
+I'm the head of the Explorers Guild here.
 Guess it's nice to meetcha.
 [End]
 
 -- ID 1 --
-[Color:0x0005]Are you making a new guild?[Color:0x0000]
+YES/NO PROMPT
+[b]Are you making a new guild?[/b]
 [End]
 
 -- ID 2 --
-[F859] Great, then you'd better come up with a name.
+Great, then you'd better come up with a name.
 [End]
 
 -- ID 3 --
-[Color:0x0003]Your character and guild names can be visible to the public.
-[Color:0x0000][F802][Color:0x0003]Please don't choose anything that would offend people, infringe anyone's rights, or reveal personal information.
-[Color:0x0000][End]
+SYSTEM TEXT
+Your character and guild names can be visible to the public.
+Please don't choose anything that would offend people, infringe anyone's rights, or reveal personal information.
+[End]
 
 -- ID 4 --
-[F859] You've got the gleam in your eye of someone who chases after the unknown.
+You've got the gleam in your eye of someone who chases after the unknown.
 Don't fear it, conquer it.
 You create your own future by pushing forward.
 Now, name your guild.
 [End]
 
 -- ID 8 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/003  [Guild Name], huh? Well, whether that name is any good or not is gonna depend on what you do from here on out.
+[Guild Name], huh?
+Well, what people think of that name is gonna depend on what you do from here on out.
 Next, you gotta recruit some adventurers for your guild.
 Exploring the forest by your lonesome is pretty much impossible.
 You should probably start with at least 5 people with different abilities.
-Up to [Color:0x0005]30 people[Color:0x0000] can be registered in a guild.
+Up to [b]30 people[/b] can be registered in a guild.
 Think carefully about who you want at your back.
 [End]
 
 -- ID 10 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/001  Looks like you got 5 people.
+Looks like you got 5 people.
 I'm sure you made wise choices.
 It's finally time to raise the curtain on your adventure.
-First up you should go talk to the Arcadian Council.
+First up, you should go talk to the Arcadian Council.
 [End]
 
 -- ID 11 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/004  ...Having less people just makes it that much more dangerous.
+...Having less people just makes it that much more dangerous.
 But if you still want to go ahead with it, I'm not gonna stop you.
 Once you're done here, you should go see the Arcadian Council.
 [End]
 
 -- ID 12 --
-[F859] [F81B]V_CHAR_103/EVENT/GENERAL/005  ...You're not gonna get anywhere without an adventuring party. First you gotta recruit some allies.
+...You're not gonna get anywhere without an adventuring party.
+First you gotta recruit some allies.
 [End]
 
 -- ID 14 --
-[F859] Don't forget, talk to the Council before challenging the World Tree.
+Don't forget, talk to the Council before challenging Yggdrasil.
 [End]
 
 -- ID 20 --
-[F859] [F81B]V_CHAR_103/SYSTEM/ENTER/001   Oh, you're back [Guild Name]?
+Oh, you're back, [Guild Name]?
 Looks like you're officially adventurers now.
 But that was just the first step.
-Plenty of punks lose focus and drop out here, and never forget that.
+Plenty of punks lose focus and drop out here. Don't forget that.
 But let's get to main topic here.
-As official adventurers, you now have the right to
-[Color:0x0005]Change Classes[Color:0x0000].
+As official adventurers, you now have the right to [b]Change Classes[/b].
 Classes are basically the skills or techniques passed down by the various races.
 Which means each of the races has inherited classes that they're naturally good at.
-[F81B]V_CHAR_103/EVENT/GENERAL/002  But here in Aeolis, the four races have made an arrangement to help conquer the forest.
+But here in Aeolis, the four races have made an arrangement to help conquer the forest.
 They're willing to teach each other their skills.
-So you can be a Lunaria Cestus, or a Therian Reaper, or whatever class you like no matter what race you are.
-On the other hand, the racial skills inherent to each of them can't be taught. Keep that in mind when making your choice.
-[F81B]V_CHAR_103/EVENT/GENERAL/001  I just explained all that, but it's probably quicker to try it out yourself.
+So you can be a Lunarian cestus, or a Therian reaper, or whatever class you like, no matter what race you are.
+On the other hand, the skills inherent to each race can't be taught. Keep that in mind when making your choice.
+I just explained all that, but it's probably quicker to try it out yourself.
 Just test whatever catches your fancy.
 [End]
 
