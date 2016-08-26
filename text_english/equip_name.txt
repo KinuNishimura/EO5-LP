@@ -564,7 +564,7 @@ Dragna Mail
 Warrior Attire
 ダミー
 ダミー
-Starting Metal Armor
+Novice Metal Armor
 ダミー
 ダミー
 ダミー
@@ -598,7 +598,7 @@ Five Virtues
 Forbidden Garb
 ダミー
 ダミー
-Starting Leather Armor
+Novice Leather Armor
 ダミー
 ダミー
 ダミー
@@ -610,57 +610,57 @@ Fluffy Bolero
 Rubber Dress
 Chemise
 Green Leaf
-ドゥドゥヌ
-カフタンブラウス
+Dodue(?)
+Kaftan Blouse
 リーチプリス
-ルバシカ
-カザック
-ランバージャック
-魔鳥の羽衣
-ルーンチュニック
-ジラフサーコート
-ファントムローブ
-ポルカ
-獄長の外套
-ナインティスリィ
-パルマコンローブ
-屍操士の衣
-エンディマ
+Rubashka
+Cossack Coat
+Lumberjack
+Demon Bird's Raiment
+Rune Tunic
+Giraffe Surcoat
+Phantom Robe
+Polka
+Warden's Overcoat
+Ninety-Three
+Pharmakon Robe
+Corpse-User's Garb
+Endyma
 ダミー
 ダミー
-ビギナーのローブ
-ダミー
-ダミー
-ダミー
+Beginner Robe
 ダミー
 ダミー
 ダミー
 ダミー
 ダミー
 ダミー
-木彫りの髪飾り
-革の帽子
-蔓編みの冠
-ターキーバレッタ
-ヘアバンド
-黒曜の仮面
-スカルヘルム
-カプトウ
-紅翅の冠
-カラカルメット
-モリオン
-ルーンサークレット
-鳥獣の大兜
-ピスヘルメット
-サプリングハット
-ピッケルハウベ
-バウンスヘッド
-ファングヘルム
-思念の冠
-ラミュロスマスク
 ダミー
 ダミー
-見習いの帽子
+ダミー
+Wooden Hairpin
+Leather Hat
+Woven Vine Cap
+Turkey Berrete
+Hairband
+Obsidian Mask
+Skull Helm
+Caput
+Red Feather Cap
+Caracalmet
+Morion
+Rune Circlet
+Beast Helm
+Pith Helmet
+Sapling Hat
+Pickelhaube
+Bounce Head
+Fang Helm
+Thought Crown
+Lamyros Mask
+ダミー
+ダミー
+Apprentice Hat
 ダミー
 ダミー
 ダミー
