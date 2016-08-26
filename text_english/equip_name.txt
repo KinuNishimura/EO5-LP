@@ -130,16 +130,16 @@ Kishin Daiō
 Inabagō
 Inoshishigiri
 Ōkanehira
-Clothesline
+Laundry Pole
 Inoueshinkai
 Shell Tantō
 Shokudaigiri
 Karakashiwa
 Sanshōbō
-Mincemeat
+Soboro
 Amenohabagiri
 Kotegiri
-Merciful Tantō
+Mercy Tantō
 Asa Arashi
 ダミー
 ダミー
@@ -162,7 +162,7 @@ Suzumekoyumi
 Wood Bow
 Shortbow
 Leech Shortbow
-Heperai (this isn't a Japanese word, it's an Ainu ceremonial arrow)
+Heperai
 Crossbow
 Hindi
 Flying Squirrel Bow
@@ -244,7 +244,7 @@ Madfaa
 Hakenbuchse
 Zhen Tian Fei Pao
 Howitzer
-Kingdom Crumbler (this was a nickname for a kind of 16th century cannon that got imported to Japan and quickly started toppling feudal fiefdoms)
+Kingdom Crumbler
 Arquebus
 Wu Lei Shen Ji
 Dalhgren(?)
@@ -299,7 +299,7 @@ Iron Maiden
 Reliquary
 Brahmagiri
 Cursed Coffin
-Megalith 5006 Coffin
+Megalith 5006
 ダミー
 ダミー
 ダミー
@@ -508,7 +508,7 @@ Debug Coffin
 ダミー
 ダミー
 ダミー
-ＭＳソード
+MS Sword
 ダミー
 ダミー
 ダミー
@@ -540,76 +540,76 @@ Debug Coffin
 ダミー
 ダミー
 ダミー
-ＭＳアーマー
+MS Armor
 ダミー
-ハーフアーマー
-ブレストプレート
-トータスアーマー
-土竜の鎧
-スライスアーマー
-リングメイル
-棺の鎧
-コンポジットアーマー
+Half-Armor
+Breastplate
+Tortoise Armor
+Mole Armor
+Slice Armor
+Ringmail
+Coffin Armor
+Composite Armor
 プラカート
-ジョストアーマー
-黄核の鎧
-マクシミリアン
-ジャザラント
+Joust Armor
+Yellow Core Armor
+Maximilian
+Jazeraint
 ノーズメイル
-ブラックプリンス
+Black Prince
 クリュッグ
 レントナー
-トネルアーマー
-ドラグナーメイル
-武者装束
+Tunnel Armor
+Dragna Mail
+Warrior Attire
 ダミー
 ダミー
-駆け出しの金属鎧
-ダミー
-ダミー
-ダミー
+Starting Metal Armor
 ダミー
 ダミー
 ダミー
 ダミー
 ダミー
 ダミー
-ハイドアーマー
-ドングリベスト
-ヴァインアーマー
-レザーベスト
+ダミー
+ダミー
+ダミー
+Hide Armor
+Acorn Vest
+Vine Armor
+Leather Vest
 ホバルジェオン
 フースカンプ
-グランベスト
-クオーツアーマー
+Grand Vest
+Quartz Armor
 カラビニエール
-ジェネラルレザー
-ブリガンダイン
+General Leather
+Brigandine
 カステンブラスト
-ブラッドベスト
-フェザーアーマー
+Bloody Vest
+Feather Armor
 ヲモダカ
-魔人の鎧
-プロテクトベスト
-フレアレザー
-ハスカールレザー
-サバイヴベスト
-五行祈装
-禁忌の狭衣
+Demon Armor
+Protect Vest
+Flare Leather
+Huskarl Leather
+Survival Vest
+Five Virtues
+Forbidden Garb
 ダミー
 ダミー
-初心者の皮鎧
-ダミー
-ダミー
-ダミー
+Starting Leather Armor
 ダミー
 ダミー
 ダミー
-ツイード
-モコモコなボレロ
-ラバードレス
-シミーズ
-グリーンリーフ
+ダミー
+ダミー
+ダミー
+Tweed
+Fluffy Bolero
+Rubber Dress
+Chemise
+Green Leaf
 ドゥドゥヌ
 カフタンブラウス
 リーチプリス
