@@ -641,7 +641,7 @@ Beginner Robe
 Wooden Hairpin
 Leather Hat
 Woven Vine Cap
-Turkey Berrete
+Turkey Barrette
 Hairband
 Obsidian Mask
 Skull Helm
@@ -670,27 +670,27 @@ Apprentice Hat
 ダミー
 ダミー
 ダミー
-毛糸の手袋
-スタデッドグローブ
-亀甲羅の手甲
-プディングローブ
-ウィングミット
-ホイールグローブ
-幽雅の手袋
-チェイングローブ
-テイルミット
-ネイチャーミット
-フレアグローブ
-フローラルミトン
-オミナスグローブ
-老木の手蓋
-結晶の手甲
-ヴァンブレイス
-ルチルグローブ
-オーブガントレット
+Wool Mitten
+Studded Glove
+Tortoise-Shell Gauntlet
+Pudding Glove
+Wing Mitt
+Wheel Glove
+Refined Glove
+Chain Glove
+Tail Mitt
+Nature Mitt
+Flare Glove
+Floral Mitten
+Ominous Glove
+Old Wood Handguard
+Crystal Gauntlet
+Vambrace
+Rutile Glove
+Orb Gauntlet
 ダミー
 ダミー
-初陣の小手
+Starter Armguard
 ダミー
 ダミー
 ダミー
@@ -702,28 +702,28 @@ Apprentice Hat
 ダミー
 ダミー
 ダミー
-リーフサンダル
-フカフカモカシン
-木彫りの靴
-シカラブーツ
-コーシカ
-ギリー
-キルトタッセル
-ブローガン
-クリスタルブーツ
-パンダモカシン
-怪猪の甲掛
-ミルキーブーツ
-レオンシンガード
-レッドブーツ
-バネ草履
-巨亀の甲掛
-バッドブーツ
-グリーズブーツ
-トランプルブーツ
+Leaf Sandal
+Soft Mocassin
+Wooden Shoes
+Sikhara Boots
+Corsica
+Gilly
+Kilt Tassel
+Brogan
+Crystal Boots
+Panda Mocassin
+Boar Chausses
+Mily Boots
+Leon Shinguard
+Red Boots
+Springy Sandal
+Tortoise Chausses
+Bad Boots
+Gríðr Boots
+Trample Boots
 ダミー
 ダミー
-旅立ちの靴
+Starting Shoes
 ダミー
 ダミー
 ダミー
@@ -734,27 +734,27 @@ Apprentice Hat
 ダミー
 ダミー
 ダミー
-バックラー
-レザーシールド
-ラバーシールド
-レジンタージェ
-ティンベー
-目競の盾
-ゾンビシールド
-クルビット
-ラウンドシールド
-サラワク
-ボイオティア
-ストライプパネル
-ボディブンカー
-ダンパーシールド
-アスピス
-パヴィス
-星壊樹の盾
-シールドファング
+Buckler
+Leather Shield
+Rubber Shield
+Resin Targe I
+Tinbe
+Mekurabe Shield
+Zombie Shield
+Kulbit(?)
+Round Shield
+Sarawak(?)
+Boeotia(?)
+Striped Panel
+Body Bunker
+Damper Shield
+Aspis
+Pavise
+Starbreak Wood Shield
+Shield Fang
 ダミー
 ダミー
-ルーキーの盾
+Rookie Shield
 ダミー
 ダミー
 ダミー
@@ -766,61 +766,61 @@ Apprentice Hat
 ダミー
 ダミー
 ダミー
-毒犬のピアス
-赤猫の首飾り
-小妖精のリング
-ヤギのピアス
-コウモリの首飾り
-禍山羊の指輪
+Poison Dog Earring
+Red Cat Necklage
+Little Fairy Ring
+Goat Earring
+Bat Necklace
+Doom Goat Ring
 ダミー
-キノコ型の飾り
-彗星の飾り
-ヘッドガード
-アームガード
-レッグガード
-斬撃の守り
-壊撃の守り
-突撃の守り
-炎の守り
-氷の守り
-雷の守り
-エレメントガード
-ダイレクトガード
-強健のお守り
-随意の飾り
-命のベルト
-生命のベルト
-英気のオーブ
-神気のオーブ
-光輝の腕輪
-運のネックレス
-幸運のネックレス
-力の指輪
-怪力の指輪
-体力の腕輪
-活力の腕輪
-脱兎のお守り
-疾風のお守り
-知恵のピアス
-英知のピアス
-全能の指輪
-アルカディアの王冠
-アルカディアの佩玉
-世界樹の指輪
+Mushroom Ornament
+Comet Ornament
+Headguard
+Armguard
+Legguard
+Cut Charm
+Bash Charm
+Stab Charm
+Fire Charm
+Ice Charm
+Volt Charm
+Element Guard
+Direct Guard
+Vigor Amulet
+Freedom Charm
+Health Belt
+Life Belt
+Wisdom Orb
+Divine Orb
+Splendrous Bangle
+Luck Necklace
+Fortune Necklace
+Strength Ring
+Titan Ring
+Stamina Bangle
+Vitality Bangle
+Dash Amulet
+Gale Amelet
+Intelligence Earring
+Sage Earring
+Almighty Ring
+Crown of Arcadia
+Jewel of Arcadia
+Yggdrasil Ring
 ダミー
 ダミー
 ダミー
 ダミー
-スタンシール
-精気の勾玉
-気魂の勾玉
-奇跡の指輪
-閃光のペンダント
-鍛錬の珠
-見晴らし水晶
-追憶の音貝
-魔光の首飾り
-冒険の手引き
+Stun Seal
+Vitality Jewel
+Spirit Jewel
+Miracle Ring
+Flash Pendant
+Training Orb
+Viewing Crystal
+Memory Soundshell
+Magelight Choker
+Adventure Guide
 ダミー
 ダミー
 ダミー
@@ -847,8 +847,8 @@ Apprentice Hat
 ダミー
 ダミー
 ダミー
-グロースバッジ
-ドロップカメオ
+Gross Badge
+Drop Cameo
 ダミー
 ダミー
 ダミー
